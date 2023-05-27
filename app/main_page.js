@@ -1,22 +1,18 @@
 import { StatusBar } from 'expo-status-bar';
-import { useState, useEffect } from 'react';
+import { useState, } from 'react';
 import { StyleSheet, FlatList, Text, Image, View } from 'react-native';
 import { Link } from "expo-router";
 import { Picker } from '@react-native-picker/picker';
+import LangSel from "./language_selector.js"
+import { useNavigation, useRouter, useSearchParams } from "expo-router";
 
-const menu = require('../assets/menu_items.json');
+const customData = require('../assets/index_items.json');
 
-export default function index() {
-
-  const [selectedLanguage, setSelectedLanguage] = useState("bengali");
-  console.log(selectedLanguage)
-  const [currentMenu, setcurrentMenu] = useState(menu[0])
-  useEffect(() => {
-    const new_menu = menu.filter(m => m.language == selectedLanguage)[0]
-    console.log(new_menu)
-    setcurrentMenu(new_menu)
-  }, selectedLanguage);
-
+export default function mainPage() {
+    const navigation = useNavigation();
+    const router = useRouter();
+    const params = useSearchParams();
+    const { sel_language, title } = params;
   return (
     <View style={styles.container}>
       <View style={styles.header}>
@@ -24,25 +20,23 @@ export default function index() {
           style={styles.tinyLogo}
           source={require('../assets/mosque.png')}
         />
-        <Text style={styles.title}>{currentMenu.title}</Text>
+        <Text style={styles.title}>{title}</Text>
       </View>
-      <View>
-        <Text style={styles.para}>{currentMenu.select_language}</Text>
-        <Picker style={styles.para}
-          selectedValue={selectedLanguage}
-          onValueChange={(itemValue, itemIndex) =>
-            setSelectedLanguage(itemValue)
-          }>
-          <Picker.Item label="Bangla" value="bengali" />
-          <Picker.Item label="English" value="english" />
-        </Picker>
-      </View>
-      <View style={styles.row}>
-        <Link style={styles.para} href={{ pathname: "./main_page", params: { "sel_language": selectedLanguage, "title" :currentMenu.title } }}>
-          <Text style={styles.para}>{currentMenu.continue}</Text>
-        </Link>
-      </View>
+      <FlatList
+        data={
+          customData
+        }
+
+        renderItem={({ item }) =>
+          <View style={styles.row}>
+            <Link style={styles.para} href={{ pathname: item.link }}>
+              <Text>{(sel_language == "bengali") ? item.bengali_name : item.english_name}</Text>
+            </Link>
+          </View>}
+      />
       <StatusBar style="auto" />
+      <Link href="./surah_mainpage">Link to surah</Link>
+      <Link href="./">Back</Link>
     </View>
   );
 }

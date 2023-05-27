@@ -1,11 +1,18 @@
 import { StatusBar } from 'expo-status-bar';
+import { useState,  } from 'react';
 import { StyleSheet, FlatList, Text, Image, View } from 'react-native';
 import { Link } from "expo-router";
+import {Picker} from '@react-native-picker/picker';
+
 
 const customData = require('../assets/surah_names.json');
 const language = "bengali"
 
-export default function index() {
+
+
+export default function surah_mainpage() {
+  const [selectedLanguage, setSelectedLanguage] = useState("bengali");
+  console.log(selectedLanguage)
   return (
     <View style={styles.container}>
       <View style={styles.header}>
@@ -15,6 +22,14 @@ export default function index() {
         />
         <Text style={styles.title}>  নামায শিক্ষা</Text>
       </View>
+      <Picker
+  selectedValue={selectedLanguage}
+  onValueChange={(itemValue, itemIndex) =>
+    setSelectedLanguage(itemValue)
+  }>
+  <Picker.Item label="Bengali" value="bengali" />
+  <Picker.Item label="English" value="english" />
+</Picker>
       <FlatList
         data={
           customData
@@ -23,7 +38,7 @@ export default function index() {
         renderItem={({ item }) =>
           <View style={styles.row}>
             <Link style={styles.para} href={{ pathname: "./surah_details", params: { "surah_name": item.name } }}>
-              <Text>{(language == "bengali") ? item.bengali_name : item.name}</Text>
+              <Text>{(selectedLanguage == "bengali") ? item.bengali_name : item.name}</Text>
             </Link>
           </View>}
       />

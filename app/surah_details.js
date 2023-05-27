@@ -1,30 +1,26 @@
-import StatusBar from 'expo-status-bar';
+import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, ScrollView, Text, Image, View } from 'react-native';
-import Link from "expo-router";
+import { Link } from "expo-router";
 import { useNavigation, useRouter, useSearchParams } from "expo-router";
+import { useState, useEffect } from 'react';
 
 
-const item = require('../assets/surah_text.json');
-
+const surah = require('../assets/surah_text.json');
+const menu = require('../assets/menu_items.json');
 
 export default function surah_details() {
-    const [selectedSurah, setselectedSurah] = useState("fateah");
+    const navigation = useNavigation();
+    const router = useRouter();
+    const params = useSearchParams();
+    const { surah_name } = params;
 
-  const navigation = useNavigation();
-  const router = useRouter();
-  const params = useSearchParams();
-  const {surah_name } = params;
+    const [currentSurah, setcurrentSurah] = useState({"name": "", "bengali_text": "", "arabic_text": "", "bengali_meaning": ""})
 
-  console.log(params)
-  for ( key in item){
-
-    // console.log(item[key])
-    if (item[key].name == surah_name)
-    {
-        selectedSurah = item[key]
-        console.log(selectedSurah.bengali_meaning)
-    }
-  }
+    useEffect(() => {
+        const new_surah = surah.filter(s => s.name == surah_name)[0]
+        console.log(surah)
+        setcurrentSurah(new_surah)
+    },[surah_name]);
     return (
         <View style={styles.container}>
             <View style={styles.header}>
@@ -36,14 +32,14 @@ export default function surah_details() {
             </View>
             <ScrollView>
                 <View style={styles.row}>
-                    <Text style={styles.para}>{selectedSurah.arabic_text}</Text>
+                    <Text style={styles.para}>{currentSurah.arabic_text}</Text>
                 </View>
                 <View style={styles.row}>
-                <Text style={styles.para}>{selectedSurah.bengali_text}</Text>
-            </View>
-            <View style={styles.row}>
-                <Text style={styles.para}>{selectedSurah.bengali_meaning}</Text>
-            </View>
+                    <Text style={styles.para}>{currentSurah.bengali_text}</Text>
+                </View>
+                <View style={styles.row}>
+                    <Text style={styles.para}>{currentSurah.bengali_meaning}</Text>
+                </View>
             </ScrollView>
             <StatusBar style="auto" />
             <Link href="./">Link to Home</Link>
