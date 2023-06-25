@@ -1,15 +1,15 @@
 import { StatusBar } from 'expo-status-bar';
 import { useState, } from 'react';
-import { StyleSheet, FlatList, Text, Image, View } from 'react-native';
+import { StyleSheet, ScrollView, Text, Image, View } from 'react-native';
 import { useNavigation, useRouter, useSearchParams } from "expo-router";
 import { Link } from "expo-router";
 import { Picker } from '@react-native-picker/picker';
 import { styles } from './styles.js'
 
 
-const customData = require('../assets/surah_names.json');
+const customData = require('../assets/eid_text.json');
 
-export default function surah_mainpage() {
+export default function eid_mainpage() {
   const navigation = useNavigation();
   const router = useRouter();
   const params = useSearchParams();
@@ -24,18 +24,20 @@ export default function surah_mainpage() {
           <Text style={styles.head}>{title}</Text>
         </Link>
       </View>
-      <FlatList
-        data={
-          customData
-        }
-
-        renderItem={({ item }) =>
-          <View>
-            <Link style={styles.para} href={{ pathname: "./surah_details", params: { "surah_name": item.name, "sel_language": sel_language, "title": title, "back": back } }}>
-              <Text>{item[sel_language]}</Text>
-            </Link>
-          </View>}
-      />
+      <ScrollView>
+                <View style={styles.row}>
+                    <Text style={styles.para}>{customData.niyat_heading[sel_language]}</Text>
+                </View>
+                <View style={styles.row}>
+                    <Text style={styles.para}>{customData.niyat[sel_language]}</Text>
+                </View>
+                <View style={styles.row}>
+                    <Text style={styles.para}>{customData.process_heading[sel_language]}</Text>
+                </View>
+                <View style={styles.row}>
+                    <Text style={styles.para}>{customData.process[sel_language]}</Text>
+                    </View>
+            </ScrollView>
       <StatusBar style="auto" />
       <View style={styles.footer}>
         <Link href={{ pathname: "./main_page", params: { "sel_language": sel_language, "title": title, "back": back } }}>

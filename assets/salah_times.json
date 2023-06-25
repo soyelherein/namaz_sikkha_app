@@ -1,0 +1,36 @@
+{
+    "waiting_for_location": {
+        "arabic": "",
+        "bengali": "অবস্থান ব্যবহার করার অনুমতি দিন",
+        "english": "Please allow location access"
+    },
+    "errorMsg": {
+        "arabic": "",
+        "bengali": "অবস্থান অ্যাক্সেস করার অনুমতি প্রত্যাখ্যান করা হয়েছে",
+        "english": "Permission to access location was denied"
+    },
+    "fajr": {
+        "bengali": "ফজর",
+        "english": "Fajr"
+    },
+    "sunrise": {
+        "bengali": "সূর্যোদয়",
+        "english": "Sunrise"
+    },
+    "dhur": {
+        "bengali": "জোহর",
+        "english": "Dhur"
+    },
+    "asr": {
+        "bengali": "আসর",
+        "english": "Asr"
+    },
+    "magrib": {
+        "bengali": "মাগরিব",
+        "english": "Magrib"
+    },
+    "isha": {
+        "bengali": "এশা",
+        "english": "Isha"
+    }
+}

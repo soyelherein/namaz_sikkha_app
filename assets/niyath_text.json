@@ -1,0 +1,173 @@
+{
+    "heading": {
+        "name":"heading",
+        "bengali" : "নিয়াত",
+        "english": "Niyath"
+    },
+    "heading1":{
+        "name":"heading1",
+        "english": "Basic Niyat Transliteration/Translation",
+        "bengali": "মূল নিয়তের রূপান্তর/অনুবাদ"
+    },
+    "introduction1":{
+        "english": "Below is how niyats are made.\nIt is a little tough to learn the niyat however, most parts of the niyat are always the same. Scroll down to find out the niyath of specific prayer.",
+        "bengali": "নিয়াত কীভাবে করা হয় তা নীচে দেওয়া হল। নিয়াত শেখা কিছুটা কঠিন, তবে নিয়াতের বেশিরভাগ অংশ সর্বদা একই থাকে।\nনির্দিষ্ট নামাজের নিয়াত জানতে নীচে স্ক্রল করুন"
+    },
+   "line1": {
+        "name": "line1",
+        "bengali": {
+            "text": "নাওয়াইতু আন উসাল্লিয়া লিল্লাহি তাআলা",
+            "meaning": "আমি সর্বশক্তিমান আল্লাহর উদ্দেশ্য"
+        },
+        "arabic": {
+            "text": "نَوَايْتُ اَنْ اُصَلِّىَ لِلَّهِ تَعَالَى"
+        },
+        "english":{
+            "text":"Nawai tuan usallia lillahi ta'ala",
+            "meaning":"I turn to Allah the most high with the intention for"
+        }
+    },
+    "line2": {
+        "name": "line2",
+        "bengali": {
+            "text": "রাকাতা / আরবা'আ রাকাতি / তাসালাসা রাকাতি",
+            "meaning": "2 রাকাত/ 4 রাকাত/ 3 রাকাত"
+        },
+        "arabic": {
+            "text": "رَكْعَتَىْ/ثَلَثَ رَكَعَاتِ/اَرْبَعَ رَكَعَاتِ/"
+        },
+        "english":{
+            "text":"rak'atai / arba'a rak'athi / tsalasa rak'athi",
+            "meaning":"2 unit / 4 unit / 3 unit"
+        }
+    },
+    "line3":{
+        "name": "line3",
+        "bengali": {
+            "text": "সালাতিল ফজরে / জুহরে / আ'সরে / মাগরিবে / আই'শাই/ বিতর",
+            "meaning": "ফজর/ জোহর/ আসর/ মাগরিব/ ঈশার/ বেতের নামাজ"
+        },
+        "arabic": {
+            "text": "/صَلَوةِ الْفَجْرِ/ الْظُهْرِ/الْعَصْرِ/الْمَغْرِبِ/الْوِتْرِ"
+        },
+        "english":{
+            "text":"swalathil Fajre / Zuhre / A'sre / Maghribe / I'shaie/ Witre",
+            "meaning":"prayer of Fajr / Zuhr / A'sr / Magrib / I'sha/ Witre"
+        }
+    },
+    "line4":{
+        "name": "line4",
+        "bengali": {
+            "text": "সুন্নাতু রাসূলুল্লাহ তা'আলা / ফরযুল্লাহি তা'আলা / নফলী/ ওয়াজিবযুল্লাহি তা'আলা",
+            "meaning": "সুন্নাত/ ফরয/ নফল/ ওয়াজিব"
+        },
+        "arabic": {
+            "text": "/سُنَّةُ رَسُوْلُ اللهِ/ فَرْضُ اللهِ تَعَالَى/نَفْلِ/وَاجِبُ اللهِ تَعَالَى "
+        },
+        "english":{
+            "text":"sunnathu rasulullahi ta'ala / fardhullahi ta'ala / nafli/ wajibullahi ta'ala ",
+            "meaning":"the way the messenger of Allah did for the most high / that is obligatory to do for the most high / voluntarily"
+        }
+    },
+    "line5":{
+        "name": "line5",
+        "bengali": {
+            "text": "মুতাওয়াজ-জিহান ইলা জিহাতিল কা'বাতিশ শরিফাথি",
+            "meaning": "কাবা শরীফের দিকে মুখ করে"
+        },
+        "arabic": {
+            "text": "مُتَوَجِّهًا اِلَى جِهَةِ الْكَعْبَةِ الشَّرِيْفَةِ"
+        },
+        "english":{
+            "text":"muthawaj-jihan ila jihatil ka'batish sharifathi",
+            "meaning":"facing towards the noble Ka'bah"
+        }
+    },
+    "line6":{
+        "name": "line6",
+        "bengali": {
+            "text": "আল্লাহু আকবার",
+            "meaning": "আল্লাহ সর্বশ্রেষ্ঠ।"
+        },
+        "arabic": {
+            "text": "اَللهُ اَكْبَرُ"
+        },
+        "english":{
+            "text":"Allahu akbar",
+            "meaning":"Allah is most great"
+        }
+    },
+    "heading2":{
+        "name":"heading2",
+        "english": "Niyat Add-on",
+        "bengali": "নিয়তের সংযোজন"
+    },
+    "addon1":{
+        "name": "addon1",
+        "bengali": {
+            "text": "যদি কেউ সঠিক সময়ে সালাত আদায় না করে, তবে সালাতটি কাদজা/ দেরিতে বলে বিবেচিত হবে। নামাজের মেকআপ করার জন্য নামাজের নামের পরে তাদের নিয়াতে 'ফায়েতাত' (الْفَائِتَةِ) শব্দটি যুক্ত করা উচিত যার অর্থ মিস করা। বাকি নিয়াত একই থাকে।",
+            "meaning": ""
+        },
+        "arabic": {
+            "text": "الْفَائِتَةِ"
+        },
+        "english":{
+            "text":"If one does not pray a salah at the appropriate time, the salah is considered qadza/late. One should add the word 'faaetate'(الْفَائِتَةِ) to their niyat after the name of the salah to makeup the prayer which means missed. The rest of the niyat stays the same.",
+            "meaning":""
+        }
+    },
+    "addon2":{
+        "name": "addon2",
+        "bengali": {
+            "text": "যদি কেউ ইমামের পিছনে নামাজ আদায় করে, তবে 'মুতাওয়াজ-জিহান'  বলার আগে তাদের নিয়াতে 'ইকতাদাইতু বেহাদজাল ইমামি' (اِقْتَدَيْتُ بِهَذَا اْلاِمَامِ) বাক্যাংশটি যুক্ত করা উচিত যার অর্থ 'আমি এই ইমামকে অনুসরণ করি'। বাকি নিয়াত একই রয়ে গেছে।",
+            "meaning": ""
+        },
+        "arabic": {
+            "text": "اِقْتَدَيْتُ بِهَذَا اْلاِمَامِ"
+        },
+        "english":{
+            "text":"If one is following praying behind an Imam, one should add the phrase 'eqtadaitu behadzal imami' (اِقْتَدَيْتُ بِهَذَا اْلاِمَامِ) to their niyat before saying 'muthawaj-jihan' which means 'I follow this imam'. The rest of the niyat remains the same.",
+            "meaning":""
+        }
+    },
+    "addon3":{
+        "name": "addon3",
+        "bengali": {
+            "text": "যদি কেউ ইমাম হিসেবে নামাজের ইমামতি করে থাকেন, তাহলে 'মুতাওয়াজ-জিহান' বলার আগে তাদের নিয়াতে 'আনা ইমামুল লেমান হাদওয়ারা ওয়া ইয়াহদভিরু' اَنَا اِمَامُ لِّمَنْ حَضَرَ وَيَحْضُرُ বাক্যটি যুক্ত করা উচিত, যার অর্থ 'ইমাম হিসেবে আমি উপস্থিত এবং যারা উপস্থিত থাকবেন তাদের ইমামতি করছি। বাকি নিয়াত একই রয়ে গেছে।",
+            "meaning": ""
+        },
+        "arabic": {
+            "text": "اَنَا اِمَامُ لِّمَنْ حَضَرَ وَيَحْضُرُ"
+        },
+        "english":{
+            "text":"If one is leading the prayer as an Imam, one should add the phrase 'ana imamul leman hhadwara wa yahhdwiru' (اَنَا اِمَامُ لِّمَنْ حَضَرَ وَيَحْضُرُ) to their niyat before saying 'muthawaj-jihan' which means 'As the Imam I am leading those who are present and those who will attend'. The rest of the niyat remains the same.",
+            "meaning":""
+        }
+    },
+    "faraz_2_rakat_sunnah":{
+        "bengali": {
+            "text": "নওয়াই তুয়ান উসাল্লি লিল্লাহি তা'আলা রাকাতাই সালাতিল ফজরে সুন্নাতু রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জিহানি ইলা জিহাতিল কা'বাতিশ শরিফাথি, আল্লাহু আকবার",
+            "meaning": ""
+        },
+        "arabic": {
+            "text": " نَوَايْتُ اَنْ اُصَلِّىَ لِلَّهِ تَعَالَى رَكْعَتَىْ صَلَوةِ الْفَجْرِ سُنَّةُ رَسُوْلُ اللهِ تَعَالَى مُتَوَجِّهًا اِلَى جِهَةِ الْكَعْبَةِ الشَّرِيْفَةِ اَللهُ اَكْبَرُ"
+        },
+        "english":{
+            "text":"Nawai tuan usallia lillahi ta’ala rak’atai swalathil Fajre sunnathu rasulullahi ta’ala muthawaj-jihan ila jihatil ka’batish sharifathi, Allahu akbar",
+            "meaning":""
+        }
+    },
+    "faraz_2_rakat_faraz":{
+        "bengali": {
+            "text": "নওয়াই তুয়ান উসাল্লি লিল্লাহি তা'আলা রাকাতাই সালাতিল ফজরে সুন্নাতু রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জিহানি ইলা জিহাতিল কা'বাতিশ শরিফাথি, আল্লাহু আকবার",
+            "meaning": ""
+        },
+        "arabic": {
+            "text": " نَوَايْتُ اَنْ اُصَلِّىَ لِلَّهِ تَعَالَى رَكْعَتَىْ صَلَوةِ الْفَجْرِ سُنَّةُ رَسُوْلُ اللهِ تَعَالَى مُتَوَجِّهًا اِلَى جِهَةِ الْكَعْبَةِ الشَّرِيْفَةِ اَللهُ اَكْبَرُ"
+        },
+        "english":{
+            "text":"Nawai tuan usallia lillahi ta’ala rak’atai swalathil Fajre sunnathu rasulullahi ta’ala muthawaj-jihan ila jihatil ka’batish sharifathi, Allahu akbar",
+            "meaning":""
+        }
+    }
+}

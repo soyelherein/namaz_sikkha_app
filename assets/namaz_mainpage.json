@@ -1,0 +1,34 @@
+[
+    {
+        "name": "2_rakat",
+        "bengali": "২ রাকাত নামাজ আদায় পদ্ধতি",
+        "english": "",
+        "type": "farz",
+        "rakat": 2,
+        "link": "./namaz_detail_2_rakat"
+    },
+    {
+        "name": "4_rakat_faraz",
+        "bengali": "৪ রাকাত ফরজ নামাজ আদায় পদ্ধতি",
+        "english": "",
+        "type": "farz",
+        "rakat": 4,
+        "link": "./namaz_detais"
+    },
+    {
+        "name": "sunnah",
+        "bengali": "৪ রাকাত সুন্নত নামাজ আদায় পদ্ধতি",
+        "english": "",
+        "type": "sunnah",
+        "rakat": 4,
+        "link": "./namaz_detais"
+    },
+    {
+        "name": "beter",
+        "bengali": "৩ রাকাত বিতর নামাজ আদায় পদ্ধতি",
+        "english": "",
+        "type": "beter",
+        "rakat": 3,
+        "link": "./namaz_detais"
+    }
+]

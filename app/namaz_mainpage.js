@@ -7,7 +7,7 @@ import { Picker } from '@react-native-picker/picker';
 import { styles } from './styles.js'
 
 
-const customData = require('../assets/surah_names.json');
+const customData = require('../assets/namaz_mainpage.json');
 
 export default function surah_mainpage() {
   const navigation = useNavigation();
@@ -31,7 +31,7 @@ export default function surah_mainpage() {
 
         renderItem={({ item }) =>
           <View>
-            <Link style={styles.para} href={{ pathname: "./surah_details", params: { "surah_name": item.name, "sel_language": sel_language, "title": title, "back": back } }}>
+            <Link style={styles.para} href={{ pathname: item.link, params: { "title": title, "namaz_name": item.name, "sel_language": sel_language, "type": item.type, "rakat": item.rakat, "back": back } }}>
               <Text>{item[sel_language]}</Text>
             </Link>
           </View>}

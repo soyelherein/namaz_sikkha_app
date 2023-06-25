@@ -1,34 +1,34 @@
 import { StatusBar } from 'expo-status-bar';
 import { useState, useEffect } from 'react';
-import { StyleSheet, FlatList, Text, Image, View } from 'react-native';
+import { Text, Image, View } from 'react-native';
 import { Link } from "expo-router";
 import { Picker } from '@react-native-picker/picker';
-
+import {styles} from './styles'
 const menu = require('../assets/menu_items.json');
 
 export default function index() {
 
   const [selectedLanguage, setSelectedLanguage] = useState("bengali");
-  console.log(selectedLanguage)
   const [currentMenu, setcurrentMenu] = useState(menu[0])
   useEffect(() => {
     const new_menu = menu.filter(m => m.language == selectedLanguage)[0]
-    console.log(new_menu)
     setcurrentMenu(new_menu)
-  }, selectedLanguage);
+  }, [selectedLanguage]);
 
   return (
     <View style={styles.container}>
       <View style={styles.header}>
         <Image
-          style={styles.tinyLogo}
-          source={require('../assets/mosque.png')}
+          source={require('../assets/kaba_50x63.png')}
         />
-        <Text style={styles.title}>{currentMenu.title}</Text>
+        <Link style={styles.head} href={{ pathname: "./"}}>
+        <Text>{currentMenu.title}</Text>
+        </Link>
       </View>
-      <View>
-        <Text style={styles.para}>{currentMenu.select_language}</Text>
-        <Picker style={styles.para}
+      <View style={styles.contentContainer}>
+        <Text style={{textAlign: 'center', paddingLeft: 10, fontSize: 25}}>بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ</Text>
+        <Text style={styles.head}>{currentMenu.select_language}</Text>
+        <Picker style={styles.picker} itemStyle={{textAlign:'center', fontWeights:200, backgroundColor: '#f2f6f3', paddingLeft: 30}}
           selectedValue={selectedLanguage}
           onValueChange={(itemValue, itemIndex) =>
             setSelectedLanguage(itemValue)
@@ -37,56 +37,15 @@ export default function index() {
           <Picker.Item label="English" value="english" />
         </Picker>
       </View>
-      <View style={styles.row}>
-        <Link style={styles.para} href={{ pathname: "./main_page", params: { "sel_language": selectedLanguage, "title" :currentMenu.title } }}>
-          <Text style={styles.para}>{currentMenu.continue}</Text>
+      <StatusBar style="auto" />
+      <View style={styles.footer}>
+        <Link href={{ pathname: "./main_page", params: { "sel_language": selectedLanguage, "title" :currentMenu.title , "back":currentMenu.back} }}>
+          <Text style={styles.head}>{currentMenu.continue}</Text>
         </Link>
       </View>
-      <StatusBar style="auto" />
     </View>
   );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    padding: 24,
-    backgroundColor: '#f5f5f5',
-  },
-  header: {
-    marginTop: 20,
-    backgroundColor: '#adff2f',
-    paddingLeft: 20,
-    flexDirection: 'row',
-    textAlign: 'center'
-  },
-  tinyLogo: {
-    marginTop: 10,
-    width: 40,
-    height: 40,
-  },
-  title: {
-    paddingVertical: 8,
-    color: '#20232a',
-    textAlign: 'center',
-    fontSize: 30,
-    fontWeight: '500'
-  },
-  row: {
-    marginTop: 16,
-    backgroundColor: '#ffffff',
-    flexDirection: 'row',
-    textAlign: 'center'
-  },
-  para: {
-    marginTop: 16,
-    paddingVertical: 8,
-    paddingLeft: 20,
-    backgroundColor: '#ffffff',
-    color: '#20232a',
-    textAlign: 'center',
-    fontSize: 27,
-    fontWeight: '300',
-  },
-});
+
 

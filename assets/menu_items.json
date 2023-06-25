@@ -1,4 +1,4 @@
 [
-{"language":"english", "title": "Namaz Sikkha", "continue": "Continue" , "select_language" : "Select Language"},
-{"language":"bengali", "title": "নামায শিক্ষা", "continue": "চালিয়ে যান", "select_language" : "ভাষা নির্বাচন করুন"}
+{"language":"english", "title": "Namaz Sikkha", "continue": "Continue" , "select_language" : "Select Language" , "back": "Back"},
+{"language":"bengali", "title": "নামায শিক্ষা", "continue": "চালিয়ে যান", "select_language" : "ভাষা নির্বাচন করুন", "back": "আগের পাতায় ফিরে যান"}
 ]
