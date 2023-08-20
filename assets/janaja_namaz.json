@@ -1,0 +1,30 @@
+{
+"intro":{"bengali":"মুসল্লিরা নামাজের অজুর ন্যায় অজু করতে হবে। মৃত ব্যক্তিকে ক্বিবলার দিকে সম্মুখে রেখে ইমামের পিছনে মুসল্লিদের দাড়াতে হবে। মৃত ব্যক্তি পুরুষ হলে ইমাম তার মাথার পাশে দাঁড়াবে। আর মহিলা হলে কফিনের মাঝ বরাবর দাঁড়াবে।",
+    "english" : "Make sure you have wudu. The body of the deceased should already be washed and shrouded and placed in front of the congregation. Stand behind the Imam facing the Qibla. If the deceased is a man/boy the Imam will stand in level with the head of the person. If the deceased is a woman/girl, the Imam will stand in the middle."},
+"heading_1":{
+"bengali":"নিয়াত",
+"english":"Niyath"
+},
+"niyath":
+{"bengali":"নাওয়াইতু আন উয়াদ্দিয়া লিল্লাহে তায়ালা আরবা আ তাকবীরাতে ছালাতিল জানাজাতে ফারজুল কেফায়াতে আচ্ছানাউ লিল্লাহি তায়ালা ওয়াচ্ছালাতু আলান্নাবীয়্যে ওয়াদ্দোয়াউ লেহাযাল মাইয়্যেতে এক্কতেদায়িতু বিহাযাল ইমাম মুতাওয়াজ্জিহান ইলা জিহাতিল কাবাতিশ শারিফাতে আললাহু আকবার।",
+"english" : "Nawai-tu-an usallia lillahi ta'ala arba'a takbirate salatil janajate farjul kefate achanau lillahi ta'ala wassalatul wallanabia oaulau lehayal maiyate eqtadaitu behadzal imami muthawaj-jihan ila jihatil ka'batish sharifathi ",
+"arabic":"نَوَيْتُ اَنْ اُؤَدِّىَ لِلَّهِ تَعَا لَى اَرْبَعَ تَكْبِيْرَاتِ صَلَوةِ الْجَنَا زَةِ فَرْضَ الْكِفَايَةِ وَالثَّنَا ءُ لِلَّهِ تَعَا لَى وَالصَّلَوةُ عَلَى النَّبِىِّ وَالدُّعَا ءُلِهَذَا الْمَيِّتِ اِقْتِدَتُ بِهَذَا الاِْمَامِ مُتَوَجِّهًا اِلَى جِهَةِ الْكَعْبَةِ الشَّرِ يْفَةِ اَللَّهُ اَكْبَرُ"},
+"niyath_diclaimer":
+{"bengali":"(এই নিয়তে ‘লেহাযাল মাইয়্যেতে’ পুরুষ লাশ হলে  আর মহিলা লাশ হলে ‘লেহাযিহিল মাইয়্যেতে’ বলতে হবে।)",
+"english" : "If the deceased in male say 'Lehayal maiyate', for female say 'Lahayihil maiyate' "},
+"niyath_meaning":
+{"bengali":"আমি চার তাকবিরের সহিত ফরজে কিফায়া জানাজার নামাজ কিবলামুখী হয়ে ইমামের পিছনে দাঁড়িয়ে মরহুম ব্যক্তির (পুরুষ/মহিলার) জন্য দোয়া করার উদ্দেশ্যে আদায় করছি",
+"english" : "I am praying Janaja Farz Kiafa with 4 takbirs facing the Qibla behind the Imam to make dua for the deceased(Man/Women)"},
+"tahrima":
+{"bengali":"নিয়তে তাকবীরে তাহরিমা অর্থাৎ, আল্লাহু আকবার বলার পর হাত তুলে তারপর অন্যান্য নামাজের মতো হাত বেঁধে নিতে হবে। হাত বেধে সানা পড়তে হবে।",
+"english" : "Now, with palms open, raise your hands to your ears and say the Takbir 'Allahu Akbar'. After Takbir, place your hands crossed at chest/belly level grabbing your left wrist with your right hand like normal prayer. Recite dua Sana now."},
+"darud":
+{"bengali":"সানা পড়ার পরে তাকবীর(আল্লাহু আকবার) বলে দরুদ শরীফ পড়তে হবে যেটা সাধারণ নামাজে তাশাহুদের পর পড়া হয়।",
+"english" : "After Sana say the takbir (Allahu Akbar) and pray darud sarif"},
+"third_takbir":
+{"bengali":"দরুদ শরীফ পড়ার পর তৃতীয় তাকবীর(আল্লাহু আকবার) আদায় করে জানাযার দোয়া পড়তে হয়।",
+"english" : "After darud sarif say the 3rd Takbir (Allahu Akbar) and recite the dua for Janaja"},
+"dua":
+{"bengali":"দরুদ শরীফ পড়ার পর তৃতীয় তাকবীর আদায় করে জানাযার দোয়া পড়তে হয়।",
+"english" : ""}
+}

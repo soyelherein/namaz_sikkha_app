@@ -3,80 +3,120 @@
         "name": "fateah",
         "text": {
             "bengali": "\n    আলহামদুলিল্লাহি রাব্বিল আলামিন |\n    আররাহমানির রাহিম |    \n    মালিকি ইয়াও মিদ্দিন |   \n    ইয়্যাকা না’বুদু ওয়া ইয়্যাকা নাস্তাঈন |   \n    ইহ্দিনাস সিরাত্বল মুসতাক্বীম |    \n    সিরাত্বল্লাজীনা আন্ আ’মতা   আলাইহিম | \n    গা’ইরিল মাগজূবি   আলাইহিম ওয়ালাজ ওয়ালাজ্ জ্বা-ল্লীন |   \n    ",
-            "arabic": "\n    الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ  \n    الرَّحْمَنِ الرَّحِيمِ  \n    مَالِكِ يَوْمِ الدِّينِ   \n    إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ    \n    اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ  \n    صِرَاطَ الَّذِينَ أَنْعَمْتَ \n    عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ   \n    عَلَيْهِمْ وَلَا الضَّالِّينَ \n    "
+            "arabic": "\n    الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ  \n    الرَّحْمَنِ الرَّحِيمِ  \n    مَالِكِ يَوْمِ الدِّينِ   \n    إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ    \n    اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ  \n    صِرَاطَ الَّذِينَ أَنْعَمْتَ \n    عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ   \n    عَلَيْهِمْ وَلَا الضَّالِّينَ \n    ",
+            "english" : "\n Alhamdu lillaahi Rabbil 'aalameen \n Ar-Rahmaanir-Raheem \n Maaliki Yawmid-Deen \n Iyyaaka na'budu wa lyyaaka nasta'een \n Ihdinas-Siraatal-Mustaqeem \n Siraatal-lazeena an’amta ‘alaihim ghayril-maghdoobi ‘alaihim wa lad-daaalleen"
         },
         "meaning": {
-            "bengali": "প্রশংসা আল্লাহ তাআলার জন্য,  যিনি বিশ্বজগতের প্রতিপালক |    \n    যিনি পরম করুণাময় এবং অসীম দয়ালু |   \n    যিনি আমাদের রোজ হাশরের মালিক |  \n    আমরা শুধু তোমারই এবাদত করি ও একমাত্র তোমারই কাছে সাহায্য প্রার্থনা করি |    \n    আমাদের তুমি সরল - সঠিক পথ দেখাও, তাদের পথ যাদের উপর তোমার নেয়ামত বর্ষিত হয়েছে |    \n    তাদের ব্যতীত যাদের উপর তোমার গযব নাজিল হয়েছে এবং যারা পথভ্রষ্ট হয়েছে |    \n    "
+            "bengali": "প্রশংসা আল্লাহ তাআলার জন্য,  যিনি বিশ্বজগতের প্রতিপালক |    \n    যিনি পরম করুণাময় এবং অসীম দয়ালু |   \n    যিনি আমাদের রোজ হাশরের মালিক |  \n    আমরা শুধু তোমারই এবাদত করি ও একমাত্র তোমারই কাছে সাহায্য প্রার্থনা করি |    \n    আমাদের তুমি সরল - সঠিক পথ দেখাও, তাদের পথ যাদের উপর তোমার নেয়ামত বর্ষিত হয়েছে |    \n    তাদের ব্যতীত যাদের উপর তোমার গযব নাজিল হয়েছে এবং যারা পথভ্রষ্ট হয়েছে |    \n    ",
+            "english": "All praise is for Allah—Lord of all worlds, \n the Most Compassionate, Most Merciful, \n Master of the Day of Judgment. \n You ˹alone˺ we worship and You ˹alone˺ we ask for help.\n Guide us along the Straight Path, \n the Path of those You have blessed—not those You are displeased with, or those who are astray."
         }
     },
     {
         "name": "nas",
         "text": {
             "bengali": "\n    কুল আউযুবি রাব্বিন্নাস | \n    মালিকিন্নাস |\n    ইলাহিন্নাস | \n    মিন শাররিল ওয়াসওয়াসিল খান্নাস | \n    আল্লাযি ইউওয়াসবিসু ফিসুদুরিন্নাস | \n    মিনাল জিন্নাতি ওয়ান্নাস |\n    ",
-            "arabic": "\n    قُلْ أَعُوذُ بِرَبِّ النَّاسِ\n    مَلِكِ النَّاسِ\n    إِلَهِ النَّاسِ\n    مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ\n    الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ\n    مِنَ الْجِنَّةِ وَ النَّاسِ\n    "
+            "arabic": "\n    قُلْ أَعُوذُ بِرَبِّ النَّاسِ\n    مَلِكِ النَّاسِ\n    إِلَهِ النَّاسِ\n    مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ\n    الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ\n    مِنَ الْجِنَّةِ وَ النَّاسِ\n    ",
+            "english": "\n Qul a’oozu birabbin naas \n Malikin naas \n Ilaahin naas \n Min sharril waswaasil khannaas\n Allazee yuwaswisu fee sudoorin naas\n Minal jinnati wannaas"
         },
         "meaning": {
-            "bengali": "\n    বলুন, \n    আমি আশ্রয় গ্রহণ করছি মানুষের প্রতিপালকের, \n    মানুষের অধিপতির, \n    মানুষের মা’বুদের, তার অনিষ্ট থেকে যে কুমন্ত্রণা দেয় এবং আত্মগোপন করে, \n    যে কুমন্ত্রণা দেয় মানুষের অন্তরে, \n    জ্বিনের মধ্য থেকে নতুবা মানুষের মধ্য থেকে |\n    "
+            "bengali": "\n    বলুন, \n    আমি আশ্রয় গ্রহণ করছি মানুষের প্রতিপালকের, \n    মানুষের অধিপতির, \n    মানুষের মা’বুদের, তার অনিষ্ট থেকে যে কুমন্ত্রণা দেয় এবং আত্মগোপন করে, \n    যে কুমন্ত্রণা দেয় মানুষের অন্তরে, \n    জ্বিনের মধ্য থেকে নতুবা মানুষের মধ্য থেকে |\n    ",
+            "english": "\n  Say, 'I seek refuge in the Lord of mankind, \n  The Sovereign of mankind.\n  The God of mankind,\n  From the evil of the retreating whisperer \n  Who whispers [evil] into the breasts of mankind \n  From among the jinn and mankind."
         }
     },
     {
         "name": "falak",
         "text": {
             "bengali": "\n    কুল আউযুবি রাব্বিল ফালাক্ব |\n    মিন শাররিমা খালাক্ব | \n    ওয়ামিন শাররি গাসিক্বিন ইযা ওয়াক্বাব | \n    ওয়ামিন শাররিন নাফফাসাতি ফিল ও’ক্বাদ | \n    ওয়ামিন শাররি হাসিদিন ইযা হাসাদ |\n    ",
-            "arabic": "\n    قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ\n    مِن شَرِّ مَا خَلَقَ\n    وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ\n    وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ\n    وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ\n    "
+            "arabic": "\n    قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ\n    مِن شَرِّ مَا خَلَقَ\n    وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ\n    وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ\n    وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ\n    ",
+            "english": "\n Qul a'oozu bi rabbil-falaq\n Min sharri min khalaq \n Wa min sharri ghaasiqin izaa waqab \n Wa min sharrin-naffaa-saati fil 'uqad\n Wa min sharri haasidin izaa hasad"
         },
         "meaning": {
-            "bengali": "\n    বলুন, আমি আশ্রয় গ্রহণ করতেছি প্রভাতের পালনকর্তার | \n    তিনি যা সৃষ্টি করেছেন, তার অনিষ্ট থেকে | \n    অন্ধকার রাত্রির অনিষ্ট থেকে, যখন তা সমাগত হয় | \n    গ্রন্থিকে ফুৎকার দিয়ে, জাদুকার মেয়েদের \n    অনিষ্ট থেকে এবং হিংসুকের অনিষ্ট থেকে যখন সে হিংসা করে |\n    "
+            "bengali": "\n    বলুন, আমি আশ্রয় গ্রহণ করতেছি প্রভাতের পালনকর্তার | \n    তিনি যা সৃষ্টি করেছেন, তার অনিষ্ট থেকে | \n    অন্ধকার রাত্রির অনিষ্ট থেকে, যখন তা সমাগত হয় | \n    গ্রন্থিকে ফুৎকার দিয়ে, জাদুকার মেয়েদের \n    অনিষ্ট থেকে এবং হিংসুকের অনিষ্ট থেকে যখন সে হিংসা করে |\n    ",
+            "english": "\n Say, “I seek refuge in the Lord of daybreak. \n From the evil of that which He created. \n And from the evil of darkness when it settles. \n And from the evil of the blowers in knots. \n And from the evil of an envier when he envies."
         }
     },
     {
         "name": "kawsar",
         "text": {
             "bengali": "\n    ইন্না আ‘ত্বায়না-কাল কাওছার ।\n    ফাছাল্লে লে রবিবকা ওয়ান্হার ।\n    ইন্না শা-নিআকা হুওয়াল আবতার ।\n    ",
-            "arabic": "\n    إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ\n\n    فَصَلِّ لِرَبِّكَ وَانْحَرْ\n\n    إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ"
+            "arabic": "\n    إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ\n\n    فَصَلِّ لِرَبِّكَ وَانْحَرْ\n\n    إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+            "english": "\n Innaaa a’tainaa kal kauthar\n Fasalli li rabbika wanhar\n Inna shaani’aka huwal abtar"
         },
         "meaning": {
-            "bengali": "\n    নিশ্চয় আমি আপনাকে কাওসার দান করেছি।\n    অতএব আপনার পালনকর্তার উদ্দেশ্যে নামায পড়ুন এবং কোরবানী করুন।\n    যে আপনার শত্রু, সেই তো লেজকাটা, নির্বংশ।\n    "
+            "bengali": "\n    নিশ্চয় আমি আপনাকে কাওসার দান করেছি।\n    অতএব আপনার পালনকর্তার উদ্দেশ্যে নামায পড়ুন এবং কোরবানী করুন।\n    যে আপনার শত্রু, সেই তো লেজকাটা, নির্বংশ।\n    ",
+            "english": "\n Indeed, We have granted you, [O Muhammad], al-Kawthar.\n So pray to your Lord and sacrifice [to Him alone].\n Indeed, your enemy is the one cut off."
         }
     },
     {
         "name": "kafirun",
         "text": {
-            "bengali": "কুল ইয়া আইয়্যুহাল কাফিরুন | \n    লা আ’বুদু মা তা’বুদ | \n    ওয়ালা আনতুম আ’বিদুনা মা আ’বূ্দ | \n    ওয়ালা আনা আ’বিদুম্মা আবাত্তুম | \n    ওয়ালা আনতুম আ’বিদুনা মা আ’বুদ | \n    লাকুম দ্বীনকুম ওয়ালিয়াদ্বীন | \n    ",
-            "arabic": "\n    بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ\n    قُلْ يَٰٓأَيُّهَا ٱلْكَٰفِرُونَ\n    لَآ أَعْبُدُ مَا تَعْبُدُونَ\n    وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ\n    وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ\n    وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ\n    لَكُمْ دِينُكُمْ وَلِىَ دِينِ\n    "
+            "bengali": "\n কুল ইয়া আইয়্যুহাল কাফিরুন | \n    লা আ’বুদু মা তা’বুদ | \n    ওয়ালা আনতুম আ’বিদুনা মা আ’বূ্দ | \n    ওয়ালা আনা আ’বিদুম্মা আবাত্তুম | \n    ওয়ালা আনতুম আ’বিদুনা মা আ’বুদ | \n    লাকুম দ্বীনকুম ওয়ালিয়াদ্বীন | \n    ",
+            "arabic": "\n    بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ\n    قُلْ يَٰٓأَيُّهَا ٱلْكَٰفِرُونَ\n    لَآ أَعْبُدُ مَا تَعْبُدُونَ\n    وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ\n    وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ\n    وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ\n    لَكُمْ دِينُكُمْ وَلِىَ دِينِ\n    ",
+            "english": "\n Qul yaaa-ayyuhal kaafiroon \n Laaa a’budu maa t’abudoon \n Wa laaa antum ‘aabidoona maaa a’bud \n Wa laaa ana ‘abidum maa ‘abattum \n Wa laaa antum ‘aabidoona maaa a’bud\n Lakum deenukum wa liya deen"
         },
         "meaning": {
-            "bengali": "\n    বলুন হে কাফেরগন, আমি এবাদত করিনা, তোমরা যার এবাদত কর |\n    এবং তোমরাও এবাদতকারী নও, যার এবাদত আমি করি |\n    এবং আমি এবাদতকারী নই, যার এবাদত তোমরা কর |\n    তোমরা এবাদতকারী নও, যার এবাদত আমি করি | \n    তোমাদের কর্ম ও কর্মফল তোমাদের জন্যে এবং আমার কর্ম ও কর্মফল আমার জন্যে |\n    "
+            "bengali": "\n    বলুন হে কাফেরগন, আমি এবাদত করিনা, তোমরা যার এবাদত কর |\n    এবং তোমরাও এবাদতকারী নও, যার এবাদত আমি করি |\n    এবং আমি এবাদতকারী নই, যার এবাদত তোমরা কর |\n    তোমরা এবাদতকারী নও, যার এবাদত আমি করি | \n    তোমাদের কর্ম ও কর্মফল তোমাদের জন্যে এবং আমার কর্ম ও কর্মফল আমার জন্যে |\n    ",
+            "english": "\n Say, “O disbelievers, \n I do not worship what you worship. \n Nor are you worshippers of what I worship.\n Nor will I be a worshipper of what you worship.\n Nor will you be worshippers of what I worship.\n For you is your religion, and for me is my religion."
         }
     },
     {
         "name": "nasr",
         "text": {
             "bengali": "\n    ইজাযা আনাসরুল্লাহি ওয়াল ফাতহ |\n    ওয়ারা আইতান্নাসা ইয়াদখুলুনা ফি-দ্বীনিল্লাহি আফওয়াজা | \n    ফাসাব্বিহ বিহামদি রাব্বিকা ওয়াস্তাগফিরহ | \n    ইন্নাহু কা’না তাওয়্যাবা |\n    ",
-            "arabic": "\n    إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ\n    وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا\n    فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا\n    "
+            "arabic": "\n    إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ\n    وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا\n    فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا\n    ",
+            "english": "\n Iza jaaa’a nasrul-laahi walfath \n Wa ra-aitan naasa yadkhuloona fee deenil laahi afwajaa \n Fasabbih bihamdi rabbika wastaghfirh, innahoo kaana tawwaaba \n "
         },
         "meaning": {
-            "bengali": "\n    যখন আসবে আল্লাহর সাহায্য ও বিজয় এবং আপনি মানুষকে দলে দলে আল্লাহর দ্বীনে প্রবেশ করতে দেখবেন | \n    তখন আপনি আপনার পালনকর্তার পবিত্রতা বর্ণনা করুন এবং তাঁর কাছে ক্ষমা প্রার্থনা করুন | \n    নিশ্চয় তিনি ক্ষমাকারী |\n    "
+            "bengali": "\n    যখন আসবে আল্লাহর সাহায্য ও বিজয় এবং আপনি মানুষকে দলে দলে আল্লাহর দ্বীনে প্রবেশ করতে দেখবেন | \n    তখন আপনি আপনার পালনকর্তার পবিত্রতা বর্ণনা করুন এবং তাঁর কাছে ক্ষমা প্রার্থনা করুন | \n    নিশ্চয় তিনি ক্ষমাকারী |\n    ",
+            "english":"\n  When the victory of Allah has come and the conquest,\n  And you see the people entering into the religion of Allah in multitudes,\n  Then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of repentance."
+        }
+    },
+    {
+        "name":"masad",
+        "text":{
+            "arabic":"   فِي جِيدِهَا حَبۡلٞ مِّن مَّسَدِ\n وَٱمۡرَأَتُهُۥ حَمَّالَةَ ٱلحَطَبِ\n سَيَصلَىٰ نَارٗا ذَاتَ لَهَب \n مَآ أَغۡنَىٰ عَنۡهُ مَالُهُۥ وَمَا كَسَبَ\n  تَبَّت يَدَآ أَبِي لَهَب وَتَبَّ\n ",
+            "english":" Tabbat yadaa abee Lahabinw-wa tabb\n Maa aghnaa ‘anhu maaluhoo wa ma kasab\n Sa-yaslaa naaran zaata lahab\n Wamra-atuhoo hammaa latal-hatab\n Fee jeedihaa hablum mim-masad",
+            "bengali": "তাব্বাত ইয়াদ~আবি লাহাবিও ওয়া তাব্ব। \n মা~আগনা-‘আনহু মা-লুহু ওয়ামা-কাসাব্।\n সাইয়াছলা-না-রান যা-তা লাহাবিও।\n ওয়ামরাআতুহু; হাম্মা-লাতাল হাত্বাব।\n ফী-জ্বীদিহা- হ্বাবলুম মিম মাসাদ্।"
+        },
+        "meaning":{
+            "english":"May the hands of Abu Lahab be ruined, and ruined is he.\n His wealth will not avail him or that which he gained.\n He will [enter to] burn in a Fire of [blazing] flame\n And his wife [as well] – the carrier of firewood.\n Around her neck is a rope of [twisted] fiber.",
+            "bengali":"আবু লাহাবের হস্তদ্বয় ধ্বংস হোক এবং ধ্বংস হোক সে নিজে,\n কোন কাজে আসেনি তার ধন-সম্পদ ও যা সে উপার্জন করেছে।\n সত্বরই সে প্রবেশ করবে লেলিহান অগ্নিতে\n এবং তার স্ত্রীও-যে ইন্ধন বহন করে,\n তার গলদেশে খর্জুরের রশি নিয়ে।"
         }
     },
     {
         "name": "quraish",
         "text": {
             "bengali": "\n    ইলাফি কুরাইশ; ঈলা ফিহিম রিহ লাতাশশিতা ইওয়াসসাইফ |\n    ফাল ইয়া’বুদু রাব্বা হাযাল বাইত |\n    আল্লাযি আত আ’মাহুম মিন যু’ঈ | \n    ওয়া আমারাহুম মিন খাউফ |\n    ",
-            "arabic": "\n    لِإِيلَٰفِ قُرَيْشٍ\n    إِۦلَٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ\n    فَلْيَعْبُدُوا۟ رَبَّ هَٰذَا ٱلْبَيْتِ\n    لَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍ\n    "
+            "arabic": "\n    لِإِيلَٰفِ قُرَيْشٍ\n    إِۦلَٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ\n    فَلْيَعْبُدُوا۟ رَبَّ هَٰذَا ٱلْبَيْتِ\n    لَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍ\n    ",
+            "english": "\n Li-eelaafi quraish\n Eelaafihim rihlatash shitaaa’i wassaif\n Faly’abudoo rabba haazal-bait\n Allazeee at’amahum min joo’inw-wa-aamanahum min khawf"
         },
         "meaning": {
-            "bengali": "\n    কোরাইশের আসক্তির কারণে, আসক্তির কারণে তাদের শীত ও গ্রীষ্মকালীন সফরের |\n    অতএব তারা যেন এবাদত করে এই ঘরের পালনকর্তার যিনি তাদের ক্ষুদায় খাবার দিয়েছেন এবং যুদ্ধ ভীতি থেকে তাদেরকে নিরাপদ করেছেন |\n    "
+            "bengali": "\n    কোরাইশের আসক্তির কারণে, আসক্তির কারণে তাদের শীত ও গ্রীষ্মকালীন সফরের |\n    অতএব তারা যেন এবাদত করে এই ঘরের পালনকর্তার যিনি তাদের ক্ষুদায় খাবার দিয়েছেন এবং যুদ্ধ ভীতি থেকে তাদেরকে নিরাপদ করেছেন |\n    ",
+            "english":"\n  For the accustomed security of the Quraysh , Their accustomed security [in] the caravan of winter and summer \n  Let them worship the Lord of this House,  Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear.\n"
         }
     },
     {
         "name": "fil",
         "text": {
             "bengali": "\n    আলাম তারা কাইফা আ’লা রাব্বুকা বি-আসহাবিল ফীল |\n    আলাম ইয়াজ-আ’ল কাইদাহুম ফি তাদলীল |\n    ওয়া আরসালা আলাইহিম তাইরান আবাবীল | \n    তারমিহিম বিহিজা রাতিম্মিন সিজ্জিল | \n    ফাজাআ’লাহুম কাআ’সফিম মা’কূল |\n    ",
-            "arabic": "\n    أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ\n    أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ\n    وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ\n    تَرْمِيهِمْ بِحِجَارَةٍ مِنْ سِجِّيلٍ\n    فَجَعَلَهُمْ كَعَصْفٍ مَأْكُولٍ\n    "
+            "arabic": "\n    أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ\n    أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ\n    وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ\n    تَرْمِيهِمْ بِحِجَارَةٍ مِنْ سِجِّيلٍ\n    فَجَعَلَهُمْ كَعَصْفٍ مَأْكُولٍ\n    ",
+            "english":" \n Alam tara kaifa fa’ala rabbuka bi ashaabil feel \n Alam yaj’al kaidahum fee tadleel\n Wa arsala ‘alaihim tairan abaabeel\n Tarmeehim bihijaaratim min sijjeel\n Faja ‘alahum ka’asfim m’akool"
         },
         "meaning": {
-            "bengali": "\n    আপনি কি দেখেননি আপনার পালনকর্তা হস্তীবাহিনীর সাথে কেমন ব্যবহার করেছেন ? \n    তিনি কি তাদের চক্রান্ত নস্যাৎ করে দেননি ? \n    তিনি তাদের উপর প্রেরণ করেছেন ঝাঁকে ঝাঁকে পাখি, যারা তাদের উপর পাথরের কংকর নিক্ষেপ করছিল | \n    অতঃপর তিনি তাদেরকে ভক্ষিত তৃণসদৃশ করে দেন |\n    "
+            "bengali": "\n    আপনি কি দেখেননি আপনার পালনকর্তা হস্তীবাহিনীর সাথে কেমন ব্যবহার করেছেন ? \n    তিনি কি তাদের চক্রান্ত নস্যাৎ করে দেননি ? \n    তিনি তাদের উপর প্রেরণ করেছেন ঝাঁকে ঝাঁকে পাখি, যারা তাদের উপর পাথরের কংকর নিক্ষেপ করছিল | \n    অতঃপর তিনি তাদেরকে ভক্ষিত তৃণসদৃশ করে দেন |\n    ",
+            "english":"\n Have you not considered, [O Muhammad], how your Lord dealt with the companions of the elephant?\n Did He not make their plan into misguidance?\n And He sent against them birds in flocks,\n Striking them with stones of hard clay,\n And He made them like eaten straw. "
         }
+    },
+    {
+    "name":"ikhlas",
+    "text":{
+        "arabic":"وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ\nلَمْ يَلِدْ وَلَمْ يُولَدْ\nٱللَّهُ ٱلصَّمَدُ\nقُلْ هُوَ ٱللَّهُ أَحَدٌ\n",
+        "bengali":"কুল হুওয়াল্লা-হু আহাদ। \n আল্লা-হুসসামাদ।\n লাম ইয়ালিদ ওয়ালাম ইঊলাদ।\n ওয়া লাম ইয়াকুল্লাহূকুফুওয়ান আহাদ।",
+        "english":"Qul huwal laahu ahad\n Allah hus-samad\n Lam yalid wa lam yoolad\n Wa lam yakul-lahoo kufuwan ahad"
+    },
+    "meaning":{
+        "bengali":"বলুন, তিনি আল্লাহ, এক,\n আল্লাহ অমুখাপেক্ষী,\n তিনি কাউকে জন্ম দেননি এবং কেউ তাকে জন্ম দেয়নি\n এবং তার সমতুল্য কেউ নেই।",
+        "english":"Say: He is Allah, the One and Only;\n Allah, the Eternal, Absolute;\n He begetteth not, nor is He begotten;\n And there is none like unto Him."
+    }
     }
 ]

@@ -56,13 +56,12 @@ export default function dua_details() {
                 <View style={styles.row}>
                     <Text style={styles.para}>{currentdua[sel_language].meaning}</Text>
                 </View>
-                <View style={styles.footer}>
-                <Link href={{ pathname: "./dua_mainpage", params: { "sel_language": sel_language, "title": title, "back": back } }}>
-                    <Text style={styles.head}>{back}</Text></Link>
-                </View>
             </ScrollView>
             <StatusBar style="auto" />
-            
+            <View style={styles.footer}>
+                <Link href={{ pathname: "./dua_mainpage", params: { "sel_language": sel_language, "title": title, "back": back } }}>
+                    <Text style={styles.head}>{back}</Text></Link>
+            </View>
         </View>
     );
 }

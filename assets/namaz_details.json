@@ -3,42 +3,37 @@
         "bengali":"১ম রাকাত",
         "english": "1st Rakat"
     },
+    "disclaimer":{
+        "bengali": "নামাজ এর মূল বিষয়বস্তু নিচে দেয়া হল। ক্ষেত্রবিশেষে কিছু পরিবর্তন দেখা যাই। কিন্তু মূল নামাজ অপরিবর্তিত থাকে।",
+        "english": "The basic process of prayer is outlined below. While there may be slight variations in practice, the majority of the salah remains consistent."
+    },
     "niyat": {
         "arabic": "",
-        "bengali": "সর্বপ্রথম পাক পবিত্র অবস্থায় এবং পাক-পবিত্র জায়গায় দাঁড়িয়ে দুই রাকাত ফরজ নামাজ পড়ার নিয়ত মনে মনে করতে হবে।  মুখে উচ্চারণ করে নিয়ত পড়া আবশ্যক নয় ।",
-        "english": "Begin with the proper niyyah (intention) that you want to pray, this can be done in your mind or verbally. The purpose is so that you are not heedless in prayer but are aware of the kind of salat you are about to offer."
+        "bengali": "সর্বপ্রথম পাক পবিত্র অবস্থায় এবং পাক-পবিত্র জায়গায় দাঁড়িয়ে, কাবা শরীফ এর দিকে মুখ করে নির্দিষ্ট নামাজ পড়ার নিয়ত মনে মনে করতে হবে।",
+        "english": "Ensure that your praying area is clean and stand facing the direction of the Qiblah. Commence by forming the niyyah (intention) for the prayer in your mind."
     },
     "tahrima": {
         "arabic": "",
-        "bengali": "এরপরে তাকবীরে তাহরীমা বাধার জন্য আল্লাহু আকবার বলে হাত কান বরাবর উঠিয়ে ছেলেরা পেটের উপর এবং মেয়েরা বুকের উপর হাত বাঁধবে।",
-        "english": "Ensure your praying area is clean, put down you prayer mat facing the direction of the Qiblah. Stand as you would normally with your feet around four inches apart. Direct your gaze towards the place of your sajdah. Now, with palms open, raise your hands to your ears and say the Takbir (Allahu Akbar) which means Allah is the greatest. Your prayer has now commenced. "
+        "bengali": "এরপরে তাকবীরে তাহরীমা বাধার জন্য আল্লাহু আকবার বলে হাত কান বরাবর ওঠাবে | তারপর পেটের উপর অথবা বুকের উপর বাম হাতের কব্জি ডান হাত দিয়ে ধরে বাঁধবে।",
+        "english": "Now, with palms open, raise your hands to your ears and say the Takbir 'Allahu Akbar'. After Takbir, place your hands crossed at chest/belly level grabbing your left wrist with your right hand."
     },
     "before_sana": {
         "arabic": "",
-        "bengali": "এরপর সানা পড়তে হবে। সানা হল-",
-        "english": "After Takbir, place cross your hands at chest level grabbing your left wrist with your right hand.[3] Begin with the recitation of thana. ["
-    },
-    "sana": {
-        "arabic": "سُبْحَانَكَ اَللَّهُمَّ وَ بِحَمْدِكَ وَ تَبَارَكَ اسْمُكَ وَ تَعَالِىْ جَدُّكَ وَ لَا اِلَهَ غَيْرُكَ",
-        "bengali": "বাংলা উচ্চারণ : সুবহানাকা আল্লাহুম্মা ওয়া বিহামদিকা, ওয়া তাবারাকাসমুকা, ওয়া তাআলা জাদ্দুকা ওয়া লা ইলাহা গাইরুকা।",
-        "english": "Subhaanaka Allaahumma wa bihamdika, wa tabaarakasmuka, wa ta’aalaa jadduka, wa laa ‘ilaaha ghayruka."
-    },
-    "sana_meaning": {
-        "bengali": "বাংলা অর্থ :হে আল্লাহ্! আমি তোমার পবিত্রতা বর্ণনা করছি। তুমি প্রশংসাময়, তোমার নাম বরকতময়, তোমার মর্যাদা অতি উচ্চে, আর তুমি ব্যতীত সত্যিকার কোনো মাবুদ নেই।",
-        "english": "Meaning: Glory and praise be to You, O Allah. Blessed be Your name and exalted be Your majesty, there is none worthy of worship except You."
+        "bengali": "এরপর সানা পড়তে হবে। সানা শেষ করে আউযুবিল্লাহ এবং বিসমিল্লাহ পড়তে হবে।",
+        "english": "Start by reciting the dua Sana. Following the Sana, recite A'udhu billahi min ash-shaytan ir-rajim and Bismillah."
     },
     "rakat_1": {
-        "bengali": "সানা শেষ করে আউযুবিল্লাহ এবং বিসমিল্লাহ পড়ে সূরা ফাতিহা এবং তার সাথে অন্য যেকোনো একটি সূরা মিলিয়ে পড়তে হবে। এটা শেষ করে আল্লাহু আকবার বলে রুকুতে যেতে হবে।",
-        "english" : "After this recite Surah Al-Fatiha, At the end of reciting Surah Fatiha say Ameen."
+        "bengali": "এবার সূরা ফাতিহা পড়তে হবে,সূরা ফাতিহা শেষ হলে আমিন বলতে হবে এবং তার সাথে অন্য যেকোনো একটি সূরা মিলিয়ে পড়তে হবে।",
+        "english" : "Following this, recite Surah Al-Fatiha. At the conclusion of reciting Surah Fatiha, say 'Ameen'. Subsequently, proceed to recite another Surah."
     },
     "ruku": {
-        "bengali" : "রুকুতে যেয়ে নিম্নোক্ত তাসবিহ টি সর্বনিম্ন তিন বার পড়তে হবে-",
-        "english": "Say Allahu Akbar, bend down for ruku. Ruku is the position where you keep your head and back aligned and put your hands on your knees.Here recite Tasbeeh three times or any odd number of times you like."
+        "bengali" : "এরপর আল্লাহু আকবার বলে রুকুতে যেতে হবে। রুকুতে যেয়ে 'সুবহা-না রব্বিয়াল আ`যিম।' তাসবিহ টি সর্বনিম্ন তিন বার অথবা বিজোড় সংখ্যা বার পড়তে হবে",
+        "english": "Say Allahu Akbar, bend down for ruku.Here recite Tasbeeh three times or any odd number of times you like."
     },
     "ruku_dua": {
         "arabic": "سُبْحَانَ رَبِّيَ الْعَظِيْمِ",
         "bengali" : "বাংলা উচ্চারণ : সুবহা-না রব্বিয়াল আ`যিম।",
-        "english": "Subhana Rabbiyal Adhim"
+        "english": "Pronunciation: Subhana Rabbiyal Adhim"
     },
     "ruku_dua_meaning": {
         "arabic": "سُبْحَانَ رَبِّيَ الْعَظِيْمِ",
@@ -47,16 +42,18 @@
     },
     "post_ruku":{
         "arabic":"",
-        "bengali":"এরপর সোজা হয়ে দাঁড়িয়ে জোরে তাকবীর দিয়ে বলতে হবে سَمِعَ اللَّهُ لِمَنْ حَمِدَه ('সামি আল্লাহ হুলিমান হামিদা') এবং সাথে সাথেই নিম্নস্বরে বলতে হবে رَبَّنَا وَلَكَ الْحَمْد ('রাব্বানা ওয়া লাকাল হামদ')। এরপর সরাসরি সেজদায় চলে যেতে হবে।",
+        "bengali":"এরপর সোজা হয়ে দাঁড়িয়ে জোরে তাকবীর দিয়ে বলতে হবে سَمِعَ اللَّهُ لِمَنْ حَمِدَه ('সামি আল্লাহ হুলিমান হামিদা') এবং সাথে সাথেই নিম্নস্বরে বলতে হবে رَبَّنَا وَلَكَ الْحَمْد ('রাব্বানা ওয়া লাকাল হামদ')। এরপর আল্লাহু আকবার বলে সরাসরি সেজদায় চলে যেতে হবে।",
         "english": "Next stand up from the bowing position saying 'Sami’Allahu liman hamidah' Meaning: Allah hears those who praise Him رَبَّنَا وَلَكَ الْحَمْد (Rabbana lakal hamd) Meaning: Our lord, to you be the praise. Say Allahu Akbar and go down for sajdah (prostration)."
     },
     "pre_sijda":{
         "arabic":"",
-        "bengali":"এরপর সোজা হয়ে দাঁড়িয়ে জোরে তাকবীর দিয়ে বলতে হবে 'সামি আল্লাহ হুলিমান হামিদা' এবং সাথে সাথেই নিম্নস্বরে বলতে হবে 'রাব্বানা ওয়া লাকাল হামদ'। এরপর সরাসরি সেজদায় চলে যেতে হবে।"
+        "bengali":"এরপর সোজা হয়ে দাঁড়িয়ে জোরে তাকবীর দিয়ে বলতে হবে 'সামি আল্লাহ হুলিমান হামিদা' এবং সাথে সাথেই নিম্নস্বরে বলতে হবে 'রাব্বানা ওয়া লাকাল হামদ'। এরপর আল্লাহু আকবার বলে সেজদায় চলে যেতে হবে।",
+        "english": "Now stand straight and say the takbir 'Samiallah hu liman hamida' followed by 'rabbana lakal hamdh' in lower voice, Then say Allah Huakbar and go to Sijdah"
     },
     "sijda":{
         "arabic":"",
-        "bengali":"সিজদায় যে নিম্নোক্ত তাজবীর সর্বনিম্ন তিনবার বলতে হবে-"
+        "bengali":"সিজদায় 'সুবহা-না রব্বিয়াল আ‘লা।' তাজবীর নিম্নস্বরে সর্বনিম্ন তিনবার অথবা বিজোড় সংখ্যা বার বলতে হবে| তারপর আল্লাহুআকবার বলে সিজদা থেকে উঠে আসন করে বসতে হবে |",
+        "english":"During sijdah the below Takbir should be pronounceed in lower voice 3 times or or any odd number of times"
     },
     "sijda_dua":{
         "arabic":"سُبْحَانَ رَبِّيَ الأَعْلَى",
@@ -70,45 +67,88 @@
     },
     "between_sijdas":{
         "arabic":"",
-        "bengali":"সিজদার সংখ্যা মোট দুই টি। দুই সিজদার মাঝখানে বসে স্বল্প সময়ে নিম্নোক্ত দোয়াটি পড়তে হয়-"
+        "bengali":"সিজদার সংখ্যা মোট দুই টি। দুই সিজদার মাঝখানে বসে স্বল্প সময়ে 'আল্লাহুম্মাগফিরলি, ওয়ারহামনি, ওয়াহদিনি, ওয়া আফিনি, ওয়ারযুকনি।' দোয়াটি পড়তে হয়| তারপর আল্লাহু আকবার বলে ২য় সেজদায় চলে যেতে হবে, সেজদায় 'সুবহা-না রব্বিয়াল আ‘লা।' তাজবীর নিম্নস্বরে সর্বনিম্ন তিনবার অথবা বিজোড় সংখ্যা বার বলতে হবে|",
+        "english": "There are 2 sijdah. In between the sijdah rest a little and say the below dua"
     },
     "between_sijdas_dua":{
         "arabic":"اَللّهُمَّ اغْفِرْلِيْ وَارْحَمْنِي وَاهْدِنِيْ وَعَافِنِيْ وَارْزُقْنِيْ",
-        "bengali":"বাংলা উচ্চারণ : আল্লাহুম্মাগফিরলি, ওয়ারহামনি, ওয়াহদিনি, ওয়া আফিনি, ওয়ারযুকনি।"
+        "bengali":"বাংলা উচ্চারণ : আল্লাহুম্মাগফিরলি, ওয়ারহামনি, ওয়াহদিনি, ওয়া আফিনি, ওয়ারযুকনি।",
+        "english": "Allahumagfirli, warhamni, wahdini, wa afini, warjukni"
     },
     "between_sijdas_meaning":{
         "arabic":"اَللّهُمَّ اغْفِرْلِيْ وَارْحَمْنِي وَاهْدِنِيْ وَعَافِنِيْ وَارْزُقْنِيْ",
         "bengali":"বাংলা অর্থ : হে আল্লাহ আপনি আমাকে মাফ করুন, আমাকে রহম করুন, আমাকে হেদায়েত দান করুন, আমাকে শান্তি দান করুন এবং আমাকে রিজিক দান করুন।"
     },
-    "2nd_rakat":{
-        "bengali": "এরপর সেজদা শেষ করে সরাসরি দাঁড়িয়ে যেতে হবে। এইভাবে প্রথম রাকাতের কার্যক্রম শেষ হবে এবার দ্বিতীয় রাকাতের শুরুতে আবার হাত বাঁধা অবস্থাতেই পুনরায় বিসমিল্লাহ বলে সূরা ফাতিহা এবং তার সাথে অন্য সূরা মিলিয়ে পড়তে হবে। এরপর একইভাবে রুকু এবং সিজদা করতে হবে।"
+    "heading_2": {
+        "bengali":"২য় রাকাত",
+        "english": "2nd Rakat"
+    },
+    "second_rakat":{
+        "bengali": "এরপর সেজদা শেষ করে আল্লাহু আকবার বলে সরাসরি দাঁড়িয়ে যেতে হবে। এইভাবে প্রথম রাকাতের কার্যক্রম শেষ হবে এবার দ্বিতীয় রাকাতের শুরুতে আবার হাত বাঁধা অবস্থাতেই পুনরায় সূরা ফাতিহা এবং তার সাথে অন্য সূরা মিলিয়ে পড়তে হবে। এরপর একইভাবে রুকু এবং সিজদা করতে হবে।",
+        "english": "After Sijdah say Allah hu Akbar and stand up.The first rakat is done, Now start the 2nd rakat, with crossed hand recite surah fateah followed by another surah. After this do the ruku and sijdah in the same way."
     },
     "2nd_rakat_postsijdah":
     {
-        "bengali" : "সিজদা শেষ করে এবার দাড়িয়ে না যে সরাসরি বসতে হবে। বসা অবস্থায় তাশাহুদ পাঠ করতে হবে। তাশাহুদ টি হলো-"
-    },
-    "attahiatu":
-    {
-        "arabic":"اَلتَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِيْنَ، أَشْهَدُ أَن لَّاإِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ O وَرَسُولُهُ",
-        "bengali" : "উচ্চারণ : আত্তাহিয়্যাতু লিল্লাহি ওয়াস্‌ সালাওয়াতু, ওয়াত্‌ তাইয়িবাতু। আস্‌সালামু ‘আলাইকা আইয়্যুহান নাবীয়্যু ওয়া রাহমাতুল্লাহি ওয়া বারাকাতুহু। আস্‌সালামু আলাইনা ওয়া আলা ইবাদিল্লাহিস্‌ সালিহীন। আশহাদু আল-লা-ইলাহা ইল্লাল্লাহু ওয়া আশ্‌হাদু আননা মুহাম্মাদান আদুহু ওয়া রাসুলুহু।",
+        "bengali" : "সেজদা শেষ করে বসা অবস্থায় আত্তাহিয়াতু পড়তে হবে | এরপর আল্লাহু আকবার বলে সরাসরি দাঁড়িয়ে যেতে হবে।",
+        "english": "After Sijdah while seating recite attahiath. Then say Allah hu Akbar and stand up."
 
     },
-    "attahiatu_meaning":
-    {
-        "bengali" : "অর্থঃ কি মৌখিক,কি দৈহিক,কি আর্থিক সকল ইবাদাত এক মাত্র আল্লাহ’র জন্য/সমস্ত সম্মানজনক সম্বোধন আল্লাহর জন্যে।সমস্ত শান্তি কল্যাণ ও পবিত্রার মালিক আল্লাহ। হে নবী, আপনার উপর আল্লাহ’র শান্তি, রহমত ও বরকত বর্ষিত হোক)আসসালামু আলায়না ওয়া আলা ইবাদিল্লাহিস সোয়ালেহিন(আমাদের উপর এবং সৎকর্মশীল বান্দাদের উপর আল্লাহ’র শান্তি বর্ষিত হোক। আমি সাক্ষ্য দিচ্ছি আল্লাহ ব্যতিত অন্য কোন ইলাহ নেই,আরো সাক্ষ্য দিচ্ছি মুহাম্মাদ(সাঃ) আল্লাহ’র বান্দা ও রাসুল।"
+    "heading_3": {
+        "bengali":"৩য় রাকাত",
+        "english": "3rd Rakat"
     },
-    "3rd_rakat_farj" :
+    "third_rakat_with_dua":{
+        "bengali": "এরপর আল্লাহু আকবার বলে দাঁড়িয়ে যেতে হবে। এইভাবে দ্বিতীয় রাকাতের কার্যক্রম শেষ হবে এবার ৩য় রাকাত রাকাতের শুরুতে আবার হাত বাঁধা অবস্থাতেই পুনরায় সূরা ফাতিহা এবং তার সাথে অন্য সূরা পড়তে হবে। এরপর একইভাবে রুকু এবং সিজদা করতে হবে।",
+        "english": "Say Allah hu Akbar and stand up.The second rakat is done, Now start the 3rd rakat, with crossed hand recite surah fateah followed by another surah. After this do the ruku and sijdah in the same way"
+    },
+    "third_rakat_without_dua":{
+        "bengali": "এরপর আল্লাহু আকবার বলে দাঁড়িয়ে যেতে হবে। এইভাবে দ্বিতীয় রাকাতের কার্যক্রম শেষ হবে এবার ৩য় রাকাত রাকাতের শুরুতে আবার হাত বাঁধা অবস্থাতেই পুনরায় সূরা ফাতিহা পড়তে হবে। এরপর একইভাবে রুকু এবং সিজদা করতে হবে।",
+        "english": "Say Allah hu Akbar and stand up.The second rakat is done, Now start the 3rd rakat, with crossed hand recite surah fateah. After this do the ruku and sijdah in the same way"
+    },
+    "third_rakat_beter":{
+        "bengali": "এরপর আল্লাহু আকবার বলে দাঁড়িয়ে যেতে হবে। এইভাবে দ্বিতীয় রাকাতের কার্যক্রম শেষ হবে এবার ৩য় রাকাত রাকাতের শুরুতে আবার হাত বাঁধা অবস্থাতেই পুনরায় সূরা ফাতিহা এবং তার সাথে অন্য সূরা পড়তে হবে। এরপরে আল্লাহু আকবার বলে তাকবীরে তাহরীমা বাঁধতে হবে এবং দুআ কুনুত পড়তে হবে  ",
+        "english": "Say Allah hu Akbar and stand up.The second rakat is done, Now start the 3rd rakat, with crossed hand recite surah fateah followed by another surah. After this say the Takbir 'Allahu Akbar' and do the tahrima that you did at the start of the prayer. Recite Dua Qunoot now "
+    },
+    "third_rakat_beter_ruku_and_sijdah":{
+        "bengali": "এরপর একইভাবে রুকু এবং সিজদা করতে হবে। ",
+        "english": "After this do the ruku and sijdah in the same way. "
+    },
+    "heading_4": {
+        "bengali":"৪থ রাকাত",
+        "english": "4th Rakat"
+    },
+    "forth_rakat_with_dua":{
+        "bengali": "এরপর আল্লাহু আকবার বলে দাঁড়িয়ে যেতে হবে। এইভাবে দ্বিতীয় রাকাতের কার্যক্রম শেষ হবে এবার ৩য় রাকাত রাকাতের শুরুতে আবার হাত বাঁধা অবস্থাতেই পুনরায় সূরা ফাতিহা এবং তার সাথে অন্য সূরা পড়তে হবে। এরপর একইভাবে রুকু এবং সিজদা করতে হবে।",
+        "english": "Say Allah hu Akbar and stand up.The second rakat is done, Now start the 3rd rakat, with crossed hand recite surah fateah followed by another surah. After this do the ruku and sijdah in the same way"
+    },
+    "forth_rakat_without_dua":{
+        "bengali": "এরপর আল্লাহু আকবার বলে দাঁড়িয়ে যেতে হবে। এইভাবে ৩য় রাকাতের কার্যক্রম শেষ হবে এবার ৪থ রাকাত রাকাতের শুরুতে আবার হাত বাঁধা অবস্থাতেই পুনরায় সূরা ফাতিহা পড়তে হবে। এরপর একইভাবে রুকু এবং সিজদা করতে হবে।",
+        "english": "Say Allah hu Akbar and stand up.The third rakat is done, Now start the 4th rakat, with crossed hand recite surah fateah. After this do the ruku and sijdah in the same way"
+    },
+    "last_rakat_postsijdah":
     {
-        "bengali": "তাশাহুদ শেষ করে সরাসরি দাঁড়িয়ে হাত পুনরায় বাধতে হবে এবং পুনরায় বিসমিল্লাহ বলে শুধুমাত্র সূরা ফাতিহা পড়তে হবে। সূরা ফাতিহা শেষ করে সরাসরি রুকু এবং সিজদা করতে হবে। এবং সিজদা শেষ করে আপনাকে আবার সরাসরি দাঁড়িয়ে যেতে হবে। পুনরায় একইভাবে বিসমিল্লাহ এবং সূরা ফাতিহা পড়ে রুকু এবং সেজদা শেষ করে এবার বসতে হবে।"
+        "bengali" : "সেজদা শেষ করে বসা অবস্থায় আত্তাহিয়াতু, দরূদশরীফ আর দুআ মাসুরা পড়তে হবে |",
+        "english": "After Sijdah while seating recite Attahiath.Darud-sarif and Dua Masura"
+    },
+    "second_rakat_baithak":
+    {
+        "bengali" : "এরপর আত্তাহিয়াতু পড়তে হবে |",
+        "english": "Now recite attahiath."
     },
     "salam":{
-        "english":"Turn your face to the right and say the following, and then turn your face to the left and repeat the same."
+        "bengali": "এরপর আপনার মুখ ডান কাঁধ এর দিকে করে নিম্নোক্ত সালাম পড়ুন তারপর আপনার মুখ বাম কাঁধ এর দিকে করে সালাম পড়ুন |",
+        "english":"Then turn your face to the right and say the following, and then turn your face to the left and repeat the same."
     },
     "salam_text":{
-        "english":"Assalamu Alaikum wa Rahmatullah"
+        "english":"Assalamu Alaikum wa Rahmatullah",
+        "bengali" : "আসসালামু ওয়ালাইকুম ওয়া রাহমাতুল্লাহ |"
     },
     "salam_meaning":{
-        "enflish":"Peace be on you and the blessings of Allah."
+        "english":"Peace be on you and the blessings of Allah."
+    },
+    "monajath":{
+        "bengali": "এবার আপনি মোনাজাত করে নামাজ শেষ করতে পারেন",
+        "english":"Now you can finish the prayer by doing monajat."
     }
 
 }

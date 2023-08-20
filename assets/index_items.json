@@ -1,9 +1,8 @@
 [
     {"bengali":"প্রয়োজনীয় সূরা", "english":"Essential Surah" , "link": "./surah_mainpage"},
     {"bengali":"প্রয়োজনীয় দোয়া", "english":"Essential Dua", "link": "./dua_mainpage"},
+    {"bengali":"নামাজের নিয়াত", "english":"Prayer Niyath", "link": "./niyath_mainpage"},
     {"bengali":"দৈনিক নামাজ", "english":"Daily Prayer", "link": "./namaz_mainpage"},
-    {"bengali":"ঈদের নামাজ", "english":"Eid's Prayer", "link": "./eid_mainpage"},
-    {"bengali":"নামাজের সময়", "english":"Prayer's Time", "link": "./salah_times"},
-    {"bengali":"নিয়াত", "english":"Niyath", "link": "./niyath_mainpage"}
+    {"bengali":"বিশেষ নামাজ", "english":"Special Prayer", "link": "./special_namaz"}
 
 ]

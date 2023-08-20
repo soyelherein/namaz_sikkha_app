@@ -40,7 +40,7 @@ export default function eid_mainpage() {
             </ScrollView>
       <StatusBar style="auto" />
       <View style={styles.footer}>
-        <Link href={{ pathname: "./main_page", params: { "sel_language": sel_language, "title": title, "back": back } }}>
+        <Link href={{ pathname: "./special_namaz", params: { "sel_language": sel_language, "title": title, "back": back } }}>
           <Text style={styles.head}>{back}</Text></Link>
       </View>
     </View>

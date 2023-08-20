@@ -2,6 +2,7 @@
     {
         "name": "sana",
         "bengali": {
+            "name":"সানা",
             "text": "সুবহা-নাকা আল্লা-হুম্মা ওয়া বিহামদিকা ওয়া তাবা-রাকাসমুকা ওয়া তা আ-লা জাদ্দুকা ওয়া লা-ইলা-হা গাইরুকা।",
             "meaning": "হে আল্লাহ! তোমার প্রশংসার সাথে তোমার পবিত্রতা বর্ণনা করছি। তোমার নাম চির বরকতময়, সকলের ঊর্ধ্বে, সকলের শীর্ষে তোমার মর্যাদা, তুমি ছাড়া কোন মাবুদ নেই।"
         },
@@ -9,6 +10,7 @@
             "text": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالَى جَدُّكَ وَلاَ إِلَهَ غَيْرُكَ"
         },
         "english":{
+            "name":"Sana",
             "text":"Subha-naka alla-humma wa bihamdika wa taba-rakasmuka wa ta a-la jadduka wa la-ila-ha gairuka.",
             "meaning":"O Allah! Describing Your holiness with Your praise. Blessed is your name forever, above all, your dignity above all, there is no god but you."
         }
@@ -19,11 +21,13 @@
             "text": "التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، السَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ "
         },
         "bengali": {
+            "name": "আত্তাহিয়্যাতু",
             "text": "আত্তাহিয়্যাতু লিল্লাহি ওয়াস সালাওয়াতু ওয়াত্ব ত্বাইয়্যিবাতু আস্‌সালামু আলাইকা আইয়্যুহান্নাবিইয়্যু ওয়া রহমাতুল্লাহি ওয়া বারাকাতুহু, আসসালামু আলাইনা ওয়া ‘আলা ইবাদিল্লাহিস্ সালিহীন। আশহাদু আল্-লা-ইলাহা ইল্লাল্লাহু ওয়া আশ্হাদু আন্না মুহাম্মাদান আবদুহু ওয়া রাসূলুহু। ",
             "meaning": "জান এবং মাল সর্বপ্রকার ইবাদতই আল্লাহুর জন্য । হে পয়গাম্বর, আপনার উপর আল্লাহর কৃপা, বরকত এবং শান্তি বর্ষিত হইক । আমাদের উপর এবং আল্লাহর পূণ্যবান বান্দাগণের উপর শান্তি বর্ষিত হউক। আমি সাক্ষ্য দিতেছি যে, আল্লাহ ব্যতীত কেহ উপাস্য নাই । আমি আরও সাক্ষ্য দিতেছি যে, নিশ্চই মুহাম্মদ (সা:) তাঁহার বান্দা ও রাসূল ।"
         },
         "english":
         {
+            "name": "Attahiyat",
             "text": "At-tahiyyatu Lillahi wa-salawatu wa’t-tayyibat, as-salamu ‘alayka ayyuha’n-Nabiyyu wa rahmat-Allahi wa barakatuhu. As-salamu ‘alayna wa ‘alaa ‘ibad-Illah is-saliheen. ashhadu alla ilaha illallah wa ashhadu anna muhammadan ‘abduhu wa rasuluhu",
             "meaning": "All the best compliments and the prayers and the good things are for Allah. Peace and Allah’s Mercy and Blessings be on you, O Prophet! Peace be on us and on the pious slaves of Allah, I testify that none has the right to be worshipped but Allah, and I also testify that Muhammad is Allah’s slave and His Apostle"
         }
@@ -34,10 +38,12 @@
             "text": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيتَ عَلَى إِبْرَاهِيمَ، وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ"
         },
         "bengali":{
+            "name": "দরুদ শরীফ",
             "text": "আল্লা-হুম্মা সাল্লি আলা মুহাম্মাদিউ ওয়া আলা আ-লি মুহাম্মাদিন কামা সাল্লাইতা আলা ইবরাহীমা ওয়া আলা আ-লি ইব্রাহীমা ইন্নাকা হামীদুম মাজীদ। আল্লা-হুম্মা বারিক আলা মুহাম্মাদিউ ওয়া আলা আলি মুহাম্মাদিন, কামা বা-রাকতা আলা ইব্রাহীমা ওয়া আলা আ-লি ইব্রাহীমা ইন্নাকা হামীদুম্ মাজীদ",
             "meaning": "হে আল্লাহ! মুহাম্মদ (সাল্লাললাহু আলাইহি ওয়া সাললাম) এবং তাঁহার বংশধরগণের উপর ঐরূপ রহমত/প্রশংসা অবতীর্ণ কর যেইরূপ রহমত/প্রশংসা হযরত ইব্রাহিম এবং তাঁহার বংশধরগণের উপর অবতীর্ণ করিয়াছ। নিশ্চয়ই তুমি প্রশংসা ভাজন এবং মহামহিম। হে আল্লাহ! মুহাম্মদ (সাল্লাললাহু আলাইহি ওয়া সাললাম) এবং তাঁহার বংশধরগণের উপর সেইরূপ অনুগ্রহ কর যে রূপ অনুগ্রহ ইব্রাহীম এবং তাঁহার বংশরগণের উপর করিয়াছ। নিশ্চয়ই তুমি প্রশংসা ভাজন এবং মহামহিম।”"
         },
         "english":{
+            "name": "Darood Sarif",
             "text":"Allahumma SalliI Ala Muhammadiw Wa Ala Aali Muhammadin Kamaa Sal’laita Ala Ibrahima Wa Ala Aali Ibrahima Inna’ka Hamidum Majid. Allahumma Baarik Ala Muhammadiw Wa Ala Aali Muhammadin Kamaa Baarakta Ala Ibrahima Wa Ala Aali Ibrahima Inna’ka Hamidum Majid.",
             "meaning":"O Allah, let Your Blessings come upon Muhammad (Peace Be Upon Him) and the family of Muhammad (Peace Be Upon Him), as you have blessed Ibrahim and his family. Truly, You are Praiseworthy and Glorious. Allah, bless Muhammad and the family of Muhammad, as you have blessed Ibrahim and his family. Truly, You are Praiseworthy and Glorious."
         }
@@ -48,11 +54,13 @@
         "text":"رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِنْ ذُرِّيَّتِي ۚ رَبَّنَا وَتَقَبَّلْ دُعَاءِ رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ"        
     },
     "bengali":{
+        "name": "রাব্বীজ এলনি",
         "text": "রাব্বীজ এলনি মুকিমাস সালাত ওয়া মিন জুরিয়তি। রাব্বানা ওয়া তাক্কাবাল দোয়া। রাব্বানাগ ফিরলি ওয়া লি ওয়ালি দয়া ওয়া লিল মুমিনিনা ইয়াউমা ইয়াকুলমুল হিসাব।",
         "meaning":"হে আমার পালনকর্তা আমাকে নামায কায়েম করান এবং আমার সন্তান-সন্ততিদেরকেও নামায কায়েম করান। হে আমাদের পালনকর্তা! আমার প্রতি তোমার অনুগ্রহ বর্ষিত কর এবং আমার দোয়া কবুল কর। হে আমাদের পালনকর্তা, আমাকে, আমার পিতা-মাতাকে এবং মুমিনদেরকে ক্ষমা করুন, যেদিন হিসাব করা হবে।"
         
     },
     "english":{
+        "name": "Rabbi Jalni",
         "text": "Rabbij alni muqeemas salati wa min zurriyati.Rabbanaa wa taqqabal dua. Rabbanagh firli wa li waali dayya wa lil mumineena yauma yaqoolmul hisaab.",
         "meaning":"My Lord make me observe Prayer and make my children too. Our Lord! Bestow Thy grace on me, and accept my prayer. Our Lord, grant forgiveness to me, and to my parents, and to the believers on the day when the reckoning will take place."
     }
@@ -79,12 +87,30 @@
             "text":"اَللَّهُمَّ اِنَّا نَسْتَعِيْنُكَ وَنَسْتَغْفِرُكَ وَنُؤْمِنُ بِكَ وَنَتَوَكَّلُ عَلَيْكَ وَنُثْنِىْ عَلَيْكَ الْخَيْرَ وَنَشْكُرُكَ وَلاَ نَكْفُرُكَ وَنَخْلَعُ وَنَتْرُكُ مَنْ يَّفْجُرُكَ-اَللَّهُمَّ اِيَّاكَ نَعْبُدُ وَلَكَ نُصَلِّىْ وَنَسْجُدُ وَاِلَيْكَ نَسْعَى وَنَحْفِدُ وَنَرْجُوْ رَحْمَتَكَ وَنَخْشَى عَذَابَكَ اِنَّ عَذَابَكَ بِالْكُفَّارِ مُلْحِقٌ "
         },
         "bengali":{
+            "name":"কুনুত",
             "text":"আল্লাহুম্মা ইন্না নাস্তাঈনুকা, ওয়া নাস্তাগফিরুকা, ওয়া নু'মিনু বিকা, ওয়া নাতাওয়াক্কালু 'আলাইকা, ওয়া নুছনি 'আলাইকাল খাইর, ওয়া নাশকুরুকা, ওয়ালা নাকফুরুকা, ওয়া নাখলাউ, ওয়া নাতরুকু মাই ইয়াফজুরুকা। আল্লাহুম্মা ইয়্যাকা নাবুদু ওয়া লাকানুসল্লী, ওয়া নাসজুদু, ওয়া ইলাইকা নাস'আ, ওয়া নাহফিদু, ওয়া নারজু রাহমাতাকা, ওয়া নাখশা আযাবাকা, ইন্না আযাবাকা বিল কুফ্ফারি মুলহিক্ক। ",
             "meaning":"হে আল্লাহ আমরা তোমারই সাহায্য চাই, তোমারই নিকট ক্ষমা চাই, তোমারই প্রতি ঈমান রাখি, তোমারই ওপর ভরসা করি এবং সকল কিছু তোমার দিকে ন্যস্ত করি। আমরা তোমার কৃতজ্ঞ হয়ে চলি অকৃতজ্ঞ হই না, এবং যারা তোমার অবাধ্য হয় তাদের থেকে সম্পর্ক ছিন্ন করে তাদেরকে পরিত্যাগ করি। হে আল্লাহ আমরা তোমারই দাসত্ব করি তোমারই জন্য নামায পড়ি এবং তোমাকেই সিজদাহ করি, আমরা তোমারই দিকে দৌড়াই ও এগিয়ে চলি। আমরা তোমারই রহমত আশা করি এবং তোমার আযাবকে ভয় করি আর তোমার আযাবতো কাফেরদের জন্যই র্নিধারিত। "
         },
         "english":{
+            "name":"Qunoot",
             "text":"Allah humma inna nasta-eenoka wa nastaghfiruka wa nu’minu bika wa natawakkalu alaika wa nusni alaikal khair, wa nashkuruka wala nakfuruka wa nakhla-oo wa natruku mai yafjuruka, Allah humma iyyaka na’budu wa laka nusalli wa nasjudu wa ilaika nas aaa wa nahfizu wa narju rahma taka wa nakhshaa azaabaka inna azaabaka bil kuffari mulhikun.",
             "meaning":"O Allah! We beg help from You alone; ask forgiveness from You alone, and turn towards You and praise You for all the good things and are grateful to You and are not ungrateful to You and we part and break off with all those who are disobedient to you. O Allah! You alone do we worship and pray exclusively to You and bow before You alone and we hasten eagerly towards You and we fear Your severe punishment and hope for Your Mercy as your severe punishment is surely to be meted out to the unbelievers."
+        }
+    },
+    {
+        "name": "janazah",
+        "arabic":{
+            "text":"لَّهُمَّ اغْفِرْلحَيِّنَاوَمَيِّتِنَا وَشَاهِدِنَا وَغَائِبِنَا وَصَغِيْرِنَا وَكَبِيْرِنَا وَذَكَرِنَا وَاُنْثَا نَا اَللَّهُمَّ مَنْ اَحْيَيْتَهُ مِنَّا فَاَحْيِهِ عَلَى الاِسْلاَمِ وَمَنْ تَوَفَّيْتَهُ مِنَّا فَتَوَفَّهُ عَلَى الاْيمَانِ بِرَحْمَتِكَ يَا ارْحَمَ الرَّاحِمِيْنَ"
+        },
+        "bengali":{
+            "name": "জানাযার দোআ",
+            "text":"আল্লাহুম্মাগফিরলি হাইয়্যেনা ওয়া মাইয়্যিতিনা ওয়া শাহিদিনা ওয়া গায়িইবিনা ও ছাগীরিনা ও কাবীরিনা ও যাকারিনা ও উনছানা। আল্লাহুম্মা মান আহইয়াইতাহু মিন্না ফাআহয়িহি আলাল ইসলামী ওয়া মান তাওয়াফ ফাইতাহু মিন্না ফাতাওয়াফ ফাহু আলাল ঈমান বেরাহমাতিকা ইয়া আর হামার রাহীমিন।",
+            "meaning":"হে আল্লাহ! আমাদের জীবিত ও মৃত এবং (এই জানাযায়) উপস্থিত-অনুপস্থিত আমাদের ছোট ও বড়, পুরুষ ও নারী সকলকে আপনি ক্ষমা করুন। যাকে আপনি বাঁচিয়ে রাখবেন, তাকে ইসলামের উপরে বাঁচিয়ে রাখুন এবং যাকে মারতে চান, তাকে ঈমানের হালতে মৃত্যু দান করুন। হে আল্লাহ! এই মাইয়েতের (জন্য দো’আ করার) উত্তম প্রতিদান হ’তে আপনি আমাদেরকে বঞ্চিত করবেন না এবং তারপরে আমাদেরকে পরীক্ষায় ফেলবেন না।"
+        },
+        "english":{
+            "name": "Janazah's Dua",
+            "text":"Allahumma ghfir li-hayyina wa mayyitina, wa shahidina wa gha'ibina, wa saghirinâ wa kabirina, wa dhakarina wa unthana. Allâhumma man ahyaytahu minna fa-ahyihi ala-l-islami. Wa man tawaffaytahu minna fa-tawaffahu ala-l-imani. Allahumma la tahrimna ajrahu wa la tudillaba ba dahu.",
+            "meaning":"O Allah, forgive our living and our dead, those present and those absent, our young and our old, our males and our females. O Allah, whom among us You keep alive, then let such a life be upon Islam, and whom among us You take unto Yourself, then let such a death be upon faith. O Allah, do not deprive us of his reward and do not let us stray after him"
         }
     }
 ]

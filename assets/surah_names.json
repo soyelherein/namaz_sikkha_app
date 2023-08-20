@@ -1,10 +1,12 @@
 [
-{"name":"fateah", "bengali": "সূরা ফাতিয়া", "english": "Surah Fateah"},
-{"name":"nas", "bengali": "সূরা নাস", "english": "Surah Nas"},
-{"name":"falak", "bengali": "সূরা ফালাক্ব", "english": "Surah Falak"},
-{"name":"kawsar", "bengali": "সূরা কাওসার", "english": "Surah Kawsar"},
+{"name":"fateah", "bengali": "সূরা ফাতিয়া", "english": "Surah Al-Fateah"},
+{"name":"nas", "bengali": "সূরা নাস", "english": "Surah Al-Nas"},
+{"name":"falak", "bengali": "সূরা ফালাক্ব", "english": "Surah Al-Falak"},
+{"name":"kawsar", "bengali": "সূরা কাওসার", "english": "Surah Al-Kawthar"},
+{"name":"ikhlas", "bengali": "সূরা ইখলাস", "english": "Surah Al-Ikhlas"},
 {"name":"kafirun", "bengali": "সূরা কাফিরুন", "english": "Surah Kafirun"},
 {"name":"nasr", "bengali": "সূরা নসর", "english": "Surah Nasr"},
 {"name":"quraish", "bengali": "সূরা কুরাইশ", "english": "Surah Kuraish"},
-{"name":"fil", "bengali": "সূরা ফিল", "english": "Surah Fil"}
+{"name":"fil", "bengali": "সূরা ফিল", "english": "Surah Fil"},
+{"name":"masad", "bengali": "সূরা মাসাদ্", "english": "Surah Al-Masad"}
 ]

@@ -103,6 +103,38 @@ export default function namaz_details() {
         <View style={styles.row}>
           <Text style={styles.subheading}>{customData.heading_2[sel_language]}</Text>          
           <Text style={styles.para}>{customData.second_rakat[sel_language]}</Text>
+          <Text style={styles.para}>{customData.second_rakat_baithak[sel_language]}</Text>
+        </View> 
+        <View style={styles.row}>
+          <Collapse >
+            <CollapseHeader>
+              <View style={styles.row}>
+                <Text style={styles.subheading}>{dua[1][sel_language].name} ⇅</Text>
+              </View>
+            </CollapseHeader>
+            <CollapseBody>
+              {/* <Text style={styles.para}>{dua[1]["arabic"].text}</Text> */}
+              <Text style={styles.para}>{dua[1][sel_language].text}</Text>
+            </CollapseBody>
+          </Collapse>
+          </View>
+        <View style={styles.row}>
+          <Text style={styles.subheading}>{customData.heading_3[sel_language]}</Text>          
+          <Text style={styles.para}>{customData.third_rakat_beter[sel_language]}</Text>
+          <View style={styles.row}>
+          <Collapse >
+            <CollapseHeader>
+              <View style={styles.row}>
+                <Text style={styles.subheading}>{dua[5][sel_language].name} ⇅</Text>
+              </View>
+            </CollapseHeader>
+            <CollapseBody>
+              {/* <Text style={styles.para}>{dua[1]["arabic"].text}</Text> */}
+              <Text style={styles.para}>{dua[5][sel_language].text}</Text>
+            </CollapseBody>
+          </Collapse>
+          </View>
+          <Text style={styles.para}>{customData.third_rakat_beter_ruku_and_sijdah[sel_language]}</Text>
           <Text style={styles.para}>{customData.last_rakat_postsijdah[sel_language]}</Text>
         </View> 
         <View style={styles.row}>

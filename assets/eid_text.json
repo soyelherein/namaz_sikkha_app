@@ -1,11 +1,12 @@
 {
     "niyat_heading":{ "arabic": "",
                     "bengali": "ঈদের নামাযের বাংলা নিয়ত", 
-                    "english": ""},
+                    "english": "English Niyath of Eid Prayer"},
     "niyat":{ "arabic": "",
-                "bengali": "আমি ঈদুল ফিতর বা ঈদুল আযহার দু’রাকাত ওয়াজিব নামায ছয় তাকবিরের সাহিত এই ইমামের পিছনে কিবলামুখি হয়ে আদায় করছি “আল্লাহু আকবার”।", "english": ""},
+                "bengali": "আমি ঈদুল ফিতর বা ঈদুল আযহার দু’রাকাত ওয়াজিব নামায অতিরিক্ত ছয় তাকবিরের সাহিত এই ইমামের পিছনে কিবলামুখি হয়ে আদায় করছি।", 
+                "english": "I intend to pray 2 Rakat Wajeeb Salah of Eid-ul-Fitr or Eid-ul-Adha behind the Imam facing Kibla with 6 additional takbirs"},
     "process_heading" :{"bengali": "ঈদের নামাজ আদায় পদ্ধতি", 
-                        "english": ""},
-    "process":{ "bengali": "১।প্রথমত, স্বাভাবিক নামাজের মতোই তাকবিরে তাহরিমা বলে হাত বাঁধবেন। তারপর ছানা পাঠ করবেন।  \n ২। তারপর অতিরিক্ত তিনটি তাকবির বলবেন। প্রথম দুই তাকবিরে হাত তুলে ছেড়ে দেবেন এবং তৃতীয় তাকবিরে হাত বেঁধে ফেলবেন।  \n ৩। তারপর আউজুবিল্লাহ ও বিসমিল্লাহ পড়ার পর ইমাম সুরা ফাতিহা পড়ে এর সঙ্গে অন্য একটি সুরা মেলাবেন।  \n ৪। তারপর স্বাভাবিক নামাজের মতোই রুকু-সিজদা করে প্রথম রাকাত শেষ করবেন।  \n ৫। দ্বিতীয় রাকাতে ইমাম কিরাত পড়া শেষে রুকুতে যাওয়ার আগে অতিরিক্ত তিন তাকবির দেবেন। প্রতি তাকবিরের সঙ্গে হাত উঠাবেন এবং ছেড়ে দেবেন। তারপর চতুর্থ তাকবির বলে রুকুতে চলে যাবেন।   \n ৬। তারপর স্বাভাবিক নামাজের মতোই নামাজ শেষ করবেন।  \n ৭। নামাজ শেষে ইমাম মিম্বারে উঠবেন। দুটি খুতবা দেবেন। এ সময় ইমামের খুতবা মনোযোগসহকারে শুনতে হবে। কোনো ধরনের কথা বলা বা অন্য কাজে ব্যস্ত হওয়া যাবে না।  \n\n ৮।  খুতবা শেষে সবাই ঈদগাহ ত্যাগ করবেন।", 
-                "english": ""}
+                        "english": "Eid Prayer"},
+    "process":{ "bengali": "১। ইমাম প্রথমবার 'আল্লাহু আকবার' বলার পরে , স্বাভাবিক নামাজের মতোই তাকবিরে তাহরিমা বলে হাত বাঁধবেন। তারপর ছানা পাঠ করবেন।  \n ২। তারপর অতিরিক্ত তিনটি তাকবির বলবেন। প্রথম দুই তাকবিরে হাত তুলে ছেড়ে দেবেন এবং তৃতীয় তাকবিরে হাত বেঁধে ফেলবেন।  \n ৩। তারপর আউজুবিল্লাহ ও বিসমিল্লাহ পড়ার পর ইমাম সুরা ফাতিহা পড়ে এর সঙ্গে অন্য একটি সুরা পড়বেন।  \n ৪। তারপর স্বাভাবিক নামাজের মতোই রুকু-সিজদা করে প্রথম রাকাত শেষ করবেন।  \n ৫। দ্বিতীয় রাকাতে ইমাম কিরাত পড়া শেষে রুকুতে যাওয়ার আগে অতিরিক্ত তিন তাকবির দেবেন। প্রতি তাকবিরের সঙ্গে হাত উঠাবেন এবং ছেড়ে দেবেন। তারপর চতুর্থ তাকবির বলে রুকুতে চলে যাবেন।   \n ৬। তারপর স্বাভাবিক নামাজের মতোই নামাজ শেষ করবেন। ", 
+                "english": "1. After the Imam has said 'Allahu Akbar' the first time, you should raise your hands fold your hands in the front and recite the Sana \n 2. Then say Allahu Akbar thrice, following you imam, first 2 times raising both hands up to the ears and droping them. and the 3rd time fold your hands in the front \n 3. Recite Audhu billahi min-ash-shayta -nir-rajeem Bismillah-ir-Rahman-ir-raheem, Imam will reite Surah Fatiha and some other Surah.\n 4. Then perform Ruku and Sijdah in the usual way \n 5. In the second rakaat imam will first recite Surah Fateha and some other Surah, then will say three takbeers after it. In all these three takbeers hands will not to be folded but dropped after each takbeer. At 4th Takbir go to ruku. \n 6. Complete the prayer in the usual way"}
 }

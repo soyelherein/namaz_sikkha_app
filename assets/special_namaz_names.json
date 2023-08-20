@@ -1,0 +1,4 @@
+[
+    {"name":"eid", "bengali": "ঈদের নামায", "english": "Eid's Prayer", "link": "./eid_prayer"},
+    {"name":"janazah","bengali":"জানাযার নামায","english":"Janazah's Prayer", "link": "./janazah_prayer"}
+]
